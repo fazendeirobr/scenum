@@ -8,5 +8,9 @@
 	"screenname": "Cristiane Jean",
 	"birthdate": "2002 May 6",
 	"country": "",
-	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE"
+	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
+	"email": "bartolonvivianne666@outlook.com",
+	"emailPassword": "967O46cccb6",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
