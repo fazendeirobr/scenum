@@ -1,18 +1,6 @@
 {
 	"sn": "facebook",
-	"login": "5511962282641",
-	"password": "mudar@123",
 	"status": 2,
 	"id": "100080777984529",
-	"name": "",
-	"screenname": "Antonieta López",
-	"birthdate": "1989 May 9",
-	"country": "",
-	"lastEventDate": "01.05.2022 07:21 EXTRA - DADOS DA CONTA COMPLETO",
-	"businessManagers": [],
-	"externalActivities": [],
-	"interests": [],
-	"isAdsAvailable": false,
-	"adsPreferences": [],
-	"rfa": false
+	"name": ""
 }
