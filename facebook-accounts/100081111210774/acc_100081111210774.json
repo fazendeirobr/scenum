@@ -8,5 +8,9 @@
 	"screenname": "Lília Martin",
 	"birthdate": "1993 May 8",
 	"country": "",
-	"lastEventDate": "01.05.2022 23:28 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE"
+	"lastEventDate": "01.05.2022 23:28 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
+	"email": "leeseelodia@outlook.com",
+	"emailPassword": "3jo2urNAliSm",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
