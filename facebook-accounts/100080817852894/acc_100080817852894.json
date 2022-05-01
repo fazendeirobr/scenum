@@ -8,5 +8,9 @@
 	"screenname": "Silvia Kamiński",
 	"birthdate": "1988 May 9",
 	"country": "",
-	"lastEventDate": "01.05.2022 03:52 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE"
+	"lastEventDate": "01.05.2022 03:52 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
+	"email": "philipEder52@gmail.com",
+	"emailPassword": "rmormq1pxn7",
+	"imapHost": "imap.gmail.com",
+	"imapPort": "993"
 }
