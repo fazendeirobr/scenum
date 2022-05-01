@@ -8,5 +8,9 @@
 	"screenname": "Rina Campos",
 	"birthdate": "1997 May 7",
 	"country": "",
-	"lastEventDate": "01.05.2022 23:28 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE"
+	"lastEventDate": "01.05.2022 23:28 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
+	"email": "alphonse_janett@outlook.com",
+	"emailPassword": "_eqlP4&Pa",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
