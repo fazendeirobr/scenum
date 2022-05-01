@@ -8,5 +8,9 @@
 	"screenname": "Edith Silveira",
 	"birthdate": "1997 May 7",
 	"country": "",
-	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE"
+	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
+	"email": "jinaonken.71@outlook.com",
+	"emailPassword": "St8R5oll",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
