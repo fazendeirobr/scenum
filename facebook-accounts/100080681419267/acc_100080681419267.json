@@ -8,5 +8,9 @@
 	"screenname": "Florbela Petrov",
 	"birthdate": "2000 May 6",
 	"country": "",
-	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE"
+	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
+	"email": "hassler.catrina@outlook.com",
+	"emailPassword": "su5s4pecT",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
