@@ -8,5 +8,9 @@
 	"screenname": "Lívia Kamiński",
 	"birthdate": "1994 May 8",
 	"country": "",
-	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE"
+	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
+	"email": "edgelldemetrice_756@outlook.com",
+	"emailPassword": "%97128sj",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
