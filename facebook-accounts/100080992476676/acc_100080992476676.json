@@ -8,5 +8,9 @@
 	"screenname": "Natacha Johanna",
 	"birthdate": "1993 May 8",
 	"country": "",
-	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE"
+	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
+	"email": "frans_miss@outlook.com",
+	"emailPassword": "Sk7&m5sj9",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
