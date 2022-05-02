@@ -1,16 +1,6 @@
 {
 	"sn": "facebook",
-	"login": "5511946796685",
-	"password": "mudar@123",
 	"status": 2,
 	"id": "100081116490576",
-	"name": "",
-	"screenname": "Leia Smirnov",
-	"birthdate": "1993 May 8",
-	"country": "",
-	"lastEventDate": "01.05.2022 23:28 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
-	"email": "rollinson_larissa@outlook.com",
-	"emailPassword": "4rE1Verse",
-	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"name": ""
 }
