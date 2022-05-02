@@ -1,16 +1,6 @@
 {
 	"sn": "facebook",
-	"login": "5547996327732",
-	"password": "mudar@123",
 	"status": 2,
 	"id": "100081066003055",
-	"name": "",
-	"screenname": "Ariana Kowalczyk",
-	"birthdate": "2000 May 6",
-	"country": "",
-	"lastEventDate": "01.05.2022 23:28 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
-	"email": "fiorentino.willie@outlook.com",
-	"emailPassword": "Y222x4ChX9jQ",
-	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"name": ""
 }
