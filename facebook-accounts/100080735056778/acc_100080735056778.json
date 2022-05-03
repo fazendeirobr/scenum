@@ -1,16 +1,6 @@
 {
 	"sn": "facebook",
-	"login": "5511962306511",
-	"password": "mudar@123",
 	"status": 2,
 	"id": "100080735056778",
-	"name": "",
-	"screenname": "Lívia Kamiński",
-	"birthdate": "1994 May 8",
-	"country": "",
-	"lastEventDate": "01.05.2022 23:29 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
-	"email": "edgelldemetrice_756@outlook.com",
-	"emailPassword": "%97128sj",
-	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"name": ""
 }
