@@ -10,5 +10,6 @@
 	"businessManagers": [],
 	"externalActivities": [],
 	"interests": [],
-	"isAdsAvailable": false
+	"isAdsAvailable": false,
+	"adsPreferences": []
 }
