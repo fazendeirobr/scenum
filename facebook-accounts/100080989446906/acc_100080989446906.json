@@ -11,6 +11,10 @@
 	"externalActivities": [],
 	"interests": [],
 	"isAdsAvailable": false,
-	"adsPreferences": [],
+	"adsPreferences": [
+		"Alcohol",
+		"Parenting",
+		"Pets"
+	],
 	"rfa": false
 }
