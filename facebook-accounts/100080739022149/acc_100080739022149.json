@@ -9,5 +9,9 @@
 	"birthdate": "",
 	"country": "",
 	"lastEventDate": "06.05.2022 05:40 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
-	"code2fa": "RQYTDLGKRNBOPBAWMXRSM4KRRGA4AWXU"
+	"code2fa": "RQYTDLGKRNBOPBAWMXRSM4KRRGA4AWXU",
+	"email": "Mathilde.Skovgaard.1981@web.de",
+	"emailPassword": "rhS4zwLgRq",
+	"imapHost": "imap.web.de",
+	"imapPort": "993"
 }
