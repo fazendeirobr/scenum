@@ -9,5 +9,9 @@
 	"birthdate": "",
 	"country": "",
 	"lastEventDate": "06.05.2022 04:54 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
-	"code2fa": "C5KNSZRJV6SSSVKR5PDW3H2UUIXMGPAS"
+	"code2fa": "C5KNSZRJV6SSSVKR5PDW3H2UUIXMGPAS",
+	"email": "Emma.Kristoffersen.1990@web.de",
+	"emailPassword": "HbeHhwM6qY",
+	"imapHost": "imap.web.de",
+	"imapPort": "993"
 }
