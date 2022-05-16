@@ -8,5 +8,9 @@
 	"lastEventDate": "16.05.2022 23:17 COLOCAR EMAIL NA CONTA - TIRAR TELEFONE",
 	"screenname": "Lígia González",
 	"birthdate": "1993 January 15",
-	"country": ""
+	"country": "",
+	"email": "Victor.Koch.1991@web.de",
+	"emailPassword": "88B4IJ0olb",
+	"imapHost": "imap.web.de",
+	"imapPort": "993"
 }
