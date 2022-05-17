@@ -12,5 +12,6 @@
 	"email": "Jacob.Bjerregaard.1989@web.de",
 	"emailPassword": "dqs8dTAYtQ",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "SC42TBG5LR6IQS64HD6JIQUTIVE7S5YB"
 }
