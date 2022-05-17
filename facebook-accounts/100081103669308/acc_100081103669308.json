@@ -12,5 +12,6 @@
 	"email": "Oscar.Skovgaard.1983@web.de",
 	"emailPassword": "1TmZatq2QF",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "EYCVRDQAGCTTBIFAV3ZYBEAL2FLAT7BF"
 }
