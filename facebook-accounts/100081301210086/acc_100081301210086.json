@@ -12,5 +12,6 @@
 	"email": "Liv.Michelsen.1999@web.de",
 	"emailPassword": "eYMRjCxKP9",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "A7WMW3QLGMZTGACXVGW37SX375M2BGAA"
 }
