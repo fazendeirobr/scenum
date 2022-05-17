@@ -12,5 +12,6 @@
 	"email": "Adam.Vestergaard.1989@web.de",
 	"emailPassword": "bcP3w4p9OB",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "4ZILREDGH5L422ZRGHANZEVWXQLGSTTM"
 }
