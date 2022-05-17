@@ -12,5 +12,6 @@
 	"email": "Mike.Johansen.1977@web.de",
 	"emailPassword": "SjzDx5C4i",
 	"imapHost": "Eimap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "RM6E7NFHV5WA2PQWPXSLJVJ677TMBIQF"
 }
