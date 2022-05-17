@@ -12,5 +12,6 @@
 	"email": "Jonas.Rasmussen.1993@web.de",
 	"emailPassword": "BYSYAwTCp5",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "PRQQTXUZYMLIZB3EYEWLMKAOTGOND5JA"
 }
