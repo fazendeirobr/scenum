@@ -12,5 +12,6 @@
 	"email": "Felix.Dahl.1994@web.de",
 	"emailPassword": "xC9fEKIsIl",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "Q2UPPXGB4AWWQGO7KPAUSG6PBTGLA24Y"
 }
