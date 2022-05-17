@@ -12,5 +12,6 @@
 	"email": "Victor.Koch.1991@web.de",
 	"emailPassword": "88B4IJ0olb",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "UPLJIRFAG7KO2RMEDIZ42KVAXKXP6CKC"
 }
