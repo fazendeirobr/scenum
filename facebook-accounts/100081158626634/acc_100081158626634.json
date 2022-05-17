@@ -12,5 +12,6 @@
 	"email": "Nohr.Hougaard.1992@web.de",
 	"emailPassword": "JlA8V3kJ9P",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "I4QYYUQ5IINZI3CM5BMJJNNDJ4F3XUHQ"
 }
