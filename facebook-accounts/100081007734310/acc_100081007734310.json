@@ -12,5 +12,6 @@
 	"email": "Mads.Jonsson.1987@web.de",
 	"emailPassword": "TuCQwN14S4",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "3QKC3CCXQ7B6YIHDRKJ2EJBTZZBKFVRN"
 }
