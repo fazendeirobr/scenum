@@ -12,5 +12,6 @@
 	"email": "Nicoline.Carstensen.1997@web.de",
 	"emailPassword": "ha5vD9k0Rn",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "NJ6R2XV37FEEGIWKZDHESHJHAVAE6EUC"
 }
