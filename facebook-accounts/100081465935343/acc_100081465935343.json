@@ -12,5 +12,6 @@
 	"email": "Lucas.Nilsson.1978@web.de",
 	"emailPassword": "d3MoFzcVUN",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "Z26OADVJ3QU2EF5U3BYJ6GOTQ7TLPCNP"
 }
