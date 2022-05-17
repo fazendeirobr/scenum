@@ -12,5 +12,6 @@
 	"email": "Nicklas.Frost.1990@web.de",
 	"emailPassword": "4ZsliKMgjI",
 	"imapHost": "imap.web.de",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "HRJYRSTWYQO5QAWS5YLKB3TBYUHL4RNL"
 }
