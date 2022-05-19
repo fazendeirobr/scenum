@@ -13,5 +13,6 @@
 	"emailPassword": "4xiCWJZKXa",
 	"imapHost": "imap.web.de",
 	"imapPort": "993",
-	"adsToken": "EAABsbCS1iHgBABnK4a3rwlZAmOvW4BynYZAj7GEqDzRuGx9gZAzCNJyp2HvTYFhSmteuPVabdiT6sr58bjZAqcmdq1LK0oxaPZCsS6ySIjSDvI1WEBZAOpB6xoX9VZCwBOIlhy8ZAjeSuvKWeRZCS3290ZAPZAitroZBzKh37ebE85o3ycYsj7NRtjazdRWnW0Qx8tcZD"
+	"adsToken": "EAABsbCS1iHgBABnK4a3rwlZAmOvW4BynYZAj7GEqDzRuGx9gZAzCNJyp2HvTYFhSmteuPVabdiT6sr58bjZAqcmdq1LK0oxaPZCsS6ySIjSDvI1WEBZAOpB6xoX9VZCwBOIlhy8ZAjeSuvKWeRZCS3290ZAPZAitroZBzKh37ebE85o3ycYsj7NRtjazdRWnW0Qx8tcZD",
+	"code2fa": "6KIHTBZMEXL62SZ3QEIKWSRN6FT2V3VR"
 }
