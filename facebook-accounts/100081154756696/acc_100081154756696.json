@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100081154756696",
 	"name": "",
-	"lastEventDate": "19.05.2022 05:03 CreateAds_by_scenum",
+	"lastEventDate": "19.05.2022 05:07 CreateAds_by_scenum",
 	"screenname": "Lígia González",
 	"birthdate": "1993 January 15",
 	"country": "Goias",
@@ -13,5 +13,6 @@
 	"emailPassword": "88B4IJ0olb",
 	"imapHost": "imap.web.de",
 	"imapPort": "993",
-	"code2fa": "UPLJIRFAG7KO2RMEDIZ42KVAXKXP6CKC"
+	"code2fa": "UPLJIRFAG7KO2RMEDIZ42KVAXKXP6CKC",
+	"adsToken": "EAABsbCS1iHgBAEZABmfeIkZAT7eRmdZBgQNRnNt06fHAwNN4MnXXss8fRXKbjLK6qoQ4yfaCXZAq6NbIcaFlRkjq9fQF0IdcpIG3KHKQqqBW5cI6x32kiegggaOLVBcZB6wvLnvIVlnxz6YsIJEQ6FZALKslcwH9m57ZB1ASmTGtonUHoD8kIAEiJujnbeuaTtEw07pxTODcwZDZD"
 }
