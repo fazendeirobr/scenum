@@ -9,5 +9,9 @@
 	"birthdate": "1995 January 5",
 	"country": "",
 	"lastEventDate": "20.05.2022 19:03 01 - CRIAR CONTA",
-	"code2fa": "P4XP32VIOURTPW3OXWYK6X4EF4GGWEZ3"
+	"code2fa": "P4XP32VIOURTPW3OXWYK6X4EF4GGWEZ3",
+	"email": "kia.mid@outlook.com",
+	"emailPassword": "4sub3meRGe",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
