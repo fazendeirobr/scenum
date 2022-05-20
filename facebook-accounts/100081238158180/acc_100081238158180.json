@@ -8,5 +8,9 @@
 	"screenname": "Emma Scherer",
 	"birthdate": "1994 March 7",
 	"country": "",
-	"lastEventDate": "20.05.2022 15:54 01 - CRIAR CONTA"
+	"lastEventDate": "20.05.2022 15:54 01 - CRIAR CONTA",
+	"email": "bunny.laz@outlook.com",
+	"emailPassword": "1z5mKuJidl",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
