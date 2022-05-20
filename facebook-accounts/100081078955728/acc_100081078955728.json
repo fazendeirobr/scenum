@@ -9,5 +9,9 @@
 	"birthdate": "1988 March 4",
 	"country": "",
 	"lastEventDate": "20.05.2022 18:41 01 - CRIAR CONTA",
-	"code2fa": "BZ2EE3YUY5REVTHELGU4U2HQCELVWZIX"
+	"code2fa": "BZ2EE3YUY5REVTHELGU4U2HQCELVWZIX",
+	"email": "illingworth.margaret@outlook.com",
+	"emailPassword": "80yw$LDvx7_",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
