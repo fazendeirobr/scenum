@@ -9,5 +9,9 @@
 	"birthdate": "1995 January 22",
 	"country": "",
 	"lastEventDate": "20.05.2022 17:31 01 - CRIAR CONTA",
-	"code2fa": "A3VRX5RLNHAKYNL56XSFYWX7NY3YZCMU"
+	"code2fa": "A3VRX5RLNHAKYNL56XSFYWX7NY3YZCMU",
+	"email": "perna_bro@outlook.com",
+	"emailPassword": "stR66Oke",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
