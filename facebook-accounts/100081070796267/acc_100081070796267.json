@@ -9,5 +9,9 @@
 	"birthdate": "1998 March 19",
 	"country": "",
 	"lastEventDate": "20.05.2022 22:22 01 - CRIAR CONTA",
-	"code2fa": "2YFXOLIHSIUIMUPRONZA55KDSR2VDQMW"
+	"code2fa": "2YFXOLIHSIUIMUPRONZA55KDSR2VDQMW",
+	"email": "jaquith.jeannette@outlook.com",
+	"emailPassword": "6C@zj9V3Qr1m",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
