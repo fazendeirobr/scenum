@@ -9,5 +9,9 @@
 	"birthdate": "1992 April 30",
 	"country": "",
 	"lastEventDate": "20.05.2022 23:33 01 - CRIAR CONTA",
-	"code2fa": "SMGRUALNKL67CY5DU6X4G7X4OAPJ5JEK"
+	"code2fa": "SMGRUALNKL67CY5DU6X4G7X4OAPJ5JEK",
+	"email": "smellean95@outlook.com",
+	"emailPassword": "sT3a2irS",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
