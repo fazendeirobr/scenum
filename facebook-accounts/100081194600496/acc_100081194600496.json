@@ -9,5 +9,9 @@
 	"birthdate": "1991 May 12",
 	"country": "",
 	"lastEventDate": "20.05.2022 23:04 01 - CRIAR CONTA",
-	"code2fa": "MQ4BLUROV7HGBMNXDTIAUG7SMPQQLNU4"
+	"code2fa": "MQ4BLUROV7HGBMNXDTIAUG7SMPQQLNU4",
+	"email": "mohnsharolyn.80@outlook.com",
+	"emailPassword": "2tremE0NDouS",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
