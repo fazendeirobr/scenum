@@ -9,5 +9,9 @@
 	"birthdate": "1991 April 2",
 	"country": "",
 	"lastEventDate": "20.05.2022 22:17 01 - CRIAR CONTA",
-	"code2fa": "JKE2LDNINCIEAEJMVYJ3ID3CS657TPJ7"
+	"code2fa": "JKE2LDNINCIEAEJMVYJ3ID3CS657TPJ7",
+	"email": "waldren_courtney65@outlook.com",
+	"emailPassword": "BF79zj5#Uu",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
