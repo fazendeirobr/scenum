@@ -9,5 +9,9 @@
 	"birthdate": "1997 May 17",
 	"country": "",
 	"lastEventDate": "20.05.2022 21:58 01 - CRIAR CONTA",
-	"code2fa": "K44Z4YPL5EJQDCNXQEM22ZMHBBVDIE4I"
+	"code2fa": "K44Z4YPL5EJQDCNXQEM22ZMHBBVDIE4I",
+	"email": "dionsharer.00@outlook.com",
+	"emailPassword": "c53ontinGeNcy",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
