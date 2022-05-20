@@ -9,5 +9,9 @@
 	"birthdate": "2001 March 24",
 	"country": "",
 	"lastEventDate": "20.05.2022 22:16 01 - CRIAR CONTA",
-	"code2fa": "M4IM2GXYNBCBG6O5XF23WUXCJ7NMJYZK"
+	"code2fa": "M4IM2GXYNBCBG6O5XF23WUXCJ7NMJYZK",
+	"email": "blanchfaith@outlook.com",
+	"emailPassword": "2Emp2loy",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
