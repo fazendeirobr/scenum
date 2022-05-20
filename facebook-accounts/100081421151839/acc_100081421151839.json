@@ -9,5 +9,9 @@
 	"birthdate": "1989 March 26",
 	"country": "",
 	"lastEventDate": "20.05.2022 18:56 01 - CRIAR CONTA",
-	"code2fa": "MGVDQBOKB437A7TG3Q4PNBEOHO6DXPAB"
+	"code2fa": "MGVDQBOKB437A7TG3Q4PNBEOHO6DXPAB",
+	"email": "krewson_shiloh@outlook.com",
+	"emailPassword": "91cOmmoN",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
