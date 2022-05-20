@@ -9,5 +9,9 @@
 	"birthdate": "1993 March 5",
 	"country": "",
 	"lastEventDate": "20.05.2022 17:59 01 - CRIAR CONTA",
-	"code2fa": "DFOT2DKPCIVHETWBIIVA6MRZSR5B3NP5"
+	"code2fa": "DFOT2DKPCIVHETWBIIVA6MRZSR5B3NP5",
+	"email": "over.chara@outlook.com",
+	"emailPassword": "n_hrBno52r",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
