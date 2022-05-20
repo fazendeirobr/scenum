@@ -9,5 +9,9 @@
 	"birthdate": "2000 January 12",
 	"country": "",
 	"lastEventDate": "20.05.2022 23:14 01 - CRIAR CONTA",
-	"code2fa": "UJRH5MXRVSY7ZER2TFBJ7HDUWZX3R2HN"
+	"code2fa": "UJRH5MXRVSY7ZER2TFBJ7HDUWZX3R2HN",
+	"email": "gettroxy@outlook.com",
+	"emailPassword": "A56KDt5NY",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
