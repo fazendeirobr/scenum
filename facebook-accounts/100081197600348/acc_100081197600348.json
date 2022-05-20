@@ -9,5 +9,9 @@
 	"birthdate": "1993 April 17",
 	"country": "",
 	"lastEventDate": "20.05.2022 22:52 01 - CRIAR CONTA",
-	"code2fa": "5ZPACIKNFYOFNQEROAMHJ5BOGXIKB64F"
+	"code2fa": "5ZPACIKNFYOFNQEROAMHJ5BOGXIKB64F",
+	"email": "chantelstarmer01@outlook.com",
+	"emailPassword": "surr8o8uNd",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
