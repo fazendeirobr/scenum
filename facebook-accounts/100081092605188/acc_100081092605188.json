@@ -9,5 +9,9 @@
 	"birthdate": "1992 February 21",
 	"country": "",
 	"lastEventDate": "20.05.2022 22:41 01 - CRIAR CONTA",
-	"code2fa": "YMGTIHR3TDADQZ6LRCIEADLVGK6X7YN4"
+	"code2fa": "YMGTIHR3TDADQZ6LRCIEADLVGK6X7YN4",
+	"email": "whitford.micki@outlook.com",
+	"emailPassword": "rE29strAIN",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
