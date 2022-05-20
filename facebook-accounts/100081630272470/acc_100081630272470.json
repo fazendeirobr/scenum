@@ -9,5 +9,9 @@
 	"birthdate": "1998 February 10",
 	"country": "",
 	"lastEventDate": "20.05.2022 07:33 01 - CRIAR CONTA",
-	"code2fa": "EGV7RGDQBB4QGWGBTT73SRMYWHXC6D2M"
+	"code2fa": "EGV7RGDQBB4QGWGBTT73SRMYWHXC6D2M",
+	"email": "hedwig.kamerling71@outlook.com",
+	"emailPassword": "66swallOw",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
