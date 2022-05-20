@@ -9,5 +9,9 @@
 	"birthdate": "1999 January 14",
 	"country": "",
 	"lastEventDate": "20.05.2022 22:54 01 - CRIAR CONTA",
-	"code2fa": "YF632BQDISGZKP47LTNGH6NXDEANABR3"
+	"code2fa": "YF632BQDISGZKP47LTNGH6NXDEANABR3",
+	"email": "arla.kroemer96@outlook.com",
+	"emailPassword": "35Z58_bA",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
