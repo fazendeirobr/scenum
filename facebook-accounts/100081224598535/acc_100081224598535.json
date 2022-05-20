@@ -8,5 +8,9 @@
 	"screenname": "Florbela Sánchez",
 	"birthdate": "1995 April 5",
 	"country": "",
-	"lastEventDate": "20.05.2022 21:58 01 - CRIAR CONTA"
+	"lastEventDate": "20.05.2022 21:58 01 - CRIAR CONTA",
+	"email": "stephanytes@outlook.com",
+	"emailPassword": "cru3c3IaL",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
