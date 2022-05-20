@@ -1,13 +1,13 @@
 {
 	"sn": "facebook",
-	"login": "5585996227176",
+	"login": "100081230768420",
 	"password": "mudar@123",
-	"status": 2,
+	"lastEventDate": "19.05.2022 08:47 [AUTHORIZATION]",
 	"id": "100081075045742",
+	"status": 2,
 	"name": "",
 	"screenname": "Letícia Finkler",
 	"birthdate": "1997 February 12",
 	"country": "Goias",
-	"lastEventDate": "19.05.2022 07:38 EXTRA - 2 FA",
 	"adsToken": "EAABsbCS1iHgBAI4KyuALJUGTetu2beIYrrrGWmtktZClMkpPepG6FnHnL9jFAkCjQG3RFIpCxwlRgM4yijQVdhXnk5FVoUG0nCJV6EOAs2HZCMKtG6d4ZBjNzZA7FeSOKxlEttgKzstC0AGynCL7ZAjuKFfLN8r92AXuc2BGQhFc8pFPxEyMYLaYCk39M8g3QiG9s9Xq0kQZDZD"
 }
