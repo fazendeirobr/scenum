@@ -9,5 +9,9 @@
 	"birthdate": "1989 May 12",
 	"country": "",
 	"lastEventDate": "20.05.2022 16:36 01 - CRIAR CONTA",
-	"code2fa": "UT4FU6MDPCPEULPY3XVXZV2GAUQ4TZPO"
+	"code2fa": "UT4FU6MDPCPEULPY3XVXZV2GAUQ4TZPO",
+	"email": "adell_susana@outlook.com",
+	"emailPassword": "9drawB9aCK",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
