@@ -9,5 +9,9 @@
 	"birthdate": "2002 January 30",
 	"country": "",
 	"lastEventDate": "20.05.2022 07:30 01 - CRIAR CONTA",
-	"code2fa": "CVMPW3WT5QDI4X6FATGDELQCS6UFR3FP"
+	"code2fa": "CVMPW3WT5QDI4X6FATGDELQCS6UFR3FP",
+	"email": "lunalogemann@outlook.com",
+	"emailPassword": "d5Ou5GhNut",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
