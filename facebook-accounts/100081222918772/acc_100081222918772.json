@@ -9,5 +9,9 @@
 	"birthdate": "1989 January 25",
 	"country": "",
 	"lastEventDate": "20.05.2022 18:38 01 - CRIAR CONTA",
-	"code2fa": "OMNI32SCSFP7NJZ4IPL5KKJJBKNF4RB6"
+	"code2fa": "OMNI32SCSFP7NJZ4IPL5KKJJBKNF4RB6",
+	"email": "jessika.koepnick87@outlook.com",
+	"emailPassword": "Ad643Yycc",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
