@@ -9,5 +9,9 @@
 	"birthdate": "1994 January 29",
 	"country": "",
 	"lastEventDate": "20.05.2022 17:41 01 - CRIAR CONTA",
-	"code2fa": "U3Z6FKISEXCSXLDRLZFQO3SXHL6GXRI5"
+	"code2fa": "U3Z6FKISEXCSXLDRLZFQO3SXHL6GXRI5",
+	"email": "nicklaus.lesia@outlook.com",
+	"emailPassword": "sCY9K&7AOrf",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
