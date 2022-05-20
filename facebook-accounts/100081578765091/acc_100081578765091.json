@@ -9,5 +9,9 @@
 	"birthdate": "1987 May 3",
 	"country": "",
 	"lastEventDate": "20.05.2022 16:36 01 - CRIAR CONTA",
-	"code2fa": "OLWVSAALG3TPAP4UUNUFO4A3YMM253IE"
+	"code2fa": "OLWVSAALG3TPAP4UUNUFO4A3YMM253IE",
+	"email": "chui_raelynn@outlook.com",
+	"emailPassword": "c95oMpLeX",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
