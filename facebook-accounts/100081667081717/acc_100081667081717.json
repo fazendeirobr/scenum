@@ -9,5 +9,9 @@
 	"birthdate": "1998 March 13",
 	"country": "",
 	"lastEventDate": "20.05.2022 19:10 01 - CRIAR CONTA",
-	"code2fa": "52EQJ3TJXKXTL6GXNFHMHSVLDSMP6WGP"
+	"code2fa": "52EQJ3TJXKXTL6GXNFHMHSVLDSMP6WGP",
+	"email": "funderburg.dione@outlook.com",
+	"emailPassword": "r0e2mAINs",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
