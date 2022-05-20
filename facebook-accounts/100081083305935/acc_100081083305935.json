@@ -9,5 +9,9 @@
 	"birthdate": "1998 May 13",
 	"country": "",
 	"lastEventDate": "20.05.2022 23:50 01 - CRIAR CONTA",
-	"code2fa": "IKNEKB53URFCETRE3JJSF32EMB6MKUGL"
+	"code2fa": "IKNEKB53URFCETRE3JJSF32EMB6MKUGL",
+	"email": "wendelken_franchesca@outlook.com",
+	"emailPassword": "8s7erIEs",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
