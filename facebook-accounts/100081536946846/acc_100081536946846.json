@@ -9,5 +9,9 @@
 	"birthdate": "1997 January 13",
 	"country": "",
 	"lastEventDate": "20.05.2022 19:10 01 - CRIAR CONTA",
-	"code2fa": "XCVPOWHAT2IOXRFVWAVRNREDRYZG3EQY"
+	"code2fa": "XCVPOWHAT2IOXRFVWAVRNREDRYZG3EQY",
+	"email": "min.schindele80@outlook.com",
+	"emailPassword": "tH9J923Y&",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
