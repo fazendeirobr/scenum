@@ -9,5 +9,9 @@
 	"birthdate": "1993 February 7",
 	"country": "",
 	"lastEventDate": "20.05.2022 16:57 01 - CRIAR CONTA",
-	"code2fa": "DI6KAFQBRNNW6PDAY3CFIXDL7HM5IUUZ"
+	"code2fa": "DI6KAFQBRNNW6PDAY3CFIXDL7HM5IUUZ",
+	"email": "melidasta@outlook.com",
+	"emailPassword": "inT3e3grITy",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
