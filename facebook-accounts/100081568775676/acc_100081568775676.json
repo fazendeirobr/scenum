@@ -9,5 +9,9 @@
 	"birthdate": "1998 February 13",
 	"country": "",
 	"lastEventDate": "20.05.2022 17:59 01 - CRIAR CONTA",
-	"code2fa": "ALGAKOACETI57X7KEXMDMKI5XJXEQLWL"
+	"code2fa": "ALGAKOACETI57X7KEXMDMKI5XJXEQLWL",
+	"email": "whitehi.erminia.01@outlook.com",
+	"emailPassword": "6r5ESidue",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
