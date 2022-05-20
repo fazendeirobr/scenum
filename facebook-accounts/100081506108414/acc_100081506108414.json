@@ -9,5 +9,9 @@
 	"birthdate": "1994 February 23",
 	"country": "",
 	"lastEventDate": "20.05.2022 19:05 01 - CRIAR CONTA",
-	"code2fa": "4MBAPGFGLY33QUPSKFGRRDS6JPHHYY4H"
+	"code2fa": "4MBAPGFGLY33QUPSKFGRRDS6JPHHYY4H",
+	"email": "paulettayowell@outlook.com",
+	"emailPassword": "0Q9BPv@2JFh",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
