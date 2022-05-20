@@ -9,5 +9,9 @@
 	"birthdate": "1987 February 24",
 	"country": "",
 	"lastEventDate": "20.05.2022 18:41 01 - CRIAR CONTA",
-	"code2fa": "AKSINB3Z54A4HXW5FJPS74Y4YEGLHLA7"
+	"code2fa": "AKSINB3Z54A4HXW5FJPS74Y4YEGLHLA7",
+	"email": "ultsch_eugene@outlook.com",
+	"emailPassword": "2cRa2DlE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
