@@ -9,5 +9,9 @@
 	"birthdate": "1992 March 14",
 	"country": "",
 	"lastEventDate": "20.05.2022 17:51 01 - CRIAR CONTA",
-	"code2fa": "VYLLT5LCVAKPGSB2J75LY5EDLRDQTEGX"
+	"code2fa": "VYLLT5LCVAKPGSB2J75LY5EDLRDQTEGX",
+	"email": "hassie.l@outlook.com",
+	"emailPassword": "tH9er8MAl",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
