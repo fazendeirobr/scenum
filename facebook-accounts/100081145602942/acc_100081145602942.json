@@ -1,13 +1,13 @@
 {
 	"sn": "facebook",
-	"login": "5562996168896",
+	"login": "100081224978376",
 	"password": "mudar@123",
-	"status": 2,
+	"lastEventDate": "19.05.2022 09:13 [AUTHORIZATION]",
 	"id": "100081145602942",
+	"status": 2,
 	"name": "",
 	"screenname": "Carla Wiśniewski",
 	"birthdate": "2001 February 20",
 	"country": "Brazil",
-	"lastEventDate": "19.05.2022 06:30 EXTRA - 2 FA",
 	"adsToken": "EAABsbCS1iHgBAMZClcGGBK0E4sZCuh3Uwk5PgZCkBJfPCL8UUvEIxhX3UoAqqWwLgPu4Eq4AzRG60QgV6F6C1HvrtBIW7VB3A5HUHjQzNfOTOcby4pXnuknT4tQEG5xMPV2neB8fZBw4Ct4jTLPZB0mWBhbz6cTpP4XXPgO0WAc9Gl6SPZCsz01R7fZCB8UGnkjazQCg27WUgZDZD"
 }
