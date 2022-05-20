@@ -9,5 +9,9 @@
 	"birthdate": "1996 February 27",
 	"country": "",
 	"lastEventDate": "20.05.2022 16:39 01 - CRIAR CONTA",
-	"code2fa": "F2LDPZDKW374GJSS4YG2IWT56PJROHKP"
+	"code2fa": "F2LDPZDKW374GJSS4YG2IWT56PJROHKP",
+	"email": "carmelina_lancon.88@outlook.com",
+	"emailPassword": "EODH770#8OnC",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
