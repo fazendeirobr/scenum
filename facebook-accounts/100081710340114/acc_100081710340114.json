@@ -9,5 +9,9 @@
 	"birthdate": "1995 January 14",
 	"country": "",
 	"lastEventDate": "20.05.2022 16:39 01 - CRIAR CONTA",
-	"code2fa": "PPYAADPJM2WZR6H5DRG75HEDK56I3FLJ"
+	"code2fa": "PPYAADPJM2WZR6H5DRG75HEDK56I3FLJ",
+	"email": "eleanorgober@outlook.com",
+	"emailPassword": "iN88fEct",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
