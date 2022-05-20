@@ -8,9 +8,10 @@
 	"screenname": "Emma Scherer",
 	"birthdate": "1994 March 7",
 	"country": "",
-	"lastEventDate": "20.05.2022 15:59 01 - CRIAR CONTA",
+	"lastEventDate": "20.05.2022 16:04 01 - CRIAR CONTA",
 	"email": "bunny.laz@outlook.com",
 	"emailPassword": "1z5mKuJidl",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"adsToken": "EAABsbCS1iHgBAKWszdt5vaTdMmNNJGbqlYZB3JSLC4qO9J7GwynZAhHgUT2r9VL1ANjVMCL5ZAGGBEvKk43cClG7OedL5W8UnWVKe3dDQUHDtAktzhV0DYvxSwHkmTB8taepDx86jd61mvcw6Qq7jz08nmgG5BELrr8qz9IrMzlhKgQnOwi"
 }
