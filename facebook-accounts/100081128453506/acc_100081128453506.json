@@ -9,5 +9,9 @@
 	"birthdate": "1990 January 2",
 	"country": "",
 	"lastEventDate": "20.05.2022 18:35 01 - CRIAR CONTA",
-	"code2fa": "3WVBBCYDGJ24NAUJFKIJ6IPI3OLLVWHK"
+	"code2fa": "3WVBBCYDGJ24NAUJFKIJ6IPI3OLLVWHK",
+	"email": "mascolqueena68@outlook.com",
+	"emailPassword": "4cAs2uAL",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
