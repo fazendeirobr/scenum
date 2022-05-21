@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100081106194876",
 	"name": "",
-	"lastEventDate": "21.05.2022 02:02 01 - CRIAR CONTA",
+	"lastEventDate": "21.05.2022 02:12 01 - CRIAR CONTA",
 	"screenname": "Flora Furio",
 	"birthdate": "1996 May 6",
 	"country": "",
@@ -13,5 +13,6 @@
 	"email": "ericka.moglia@outlook.com",
 	"emailPassword": "0EU16BeKA7D_",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"adsToken": "EAABsbCS1iHgBADkGzyFGrcxzVuOXuLzOvpTLP6GbnroohZA8ij6LjZA2UWD7gjKTFWBbzTAB5YFtfj6xHwZCqvfAnhEgqLkvJrMxZCiFxKlPyKc1ZCdK1KhvEcvqTlUuXKJBVynLxVbdkgoZBnLkj9H8QEJq0uBXZBmZBkZBZA1snPAQqD7QWOGSzQhUeZAyUkNRAztYKnK3foQfwZDZD"
 }
