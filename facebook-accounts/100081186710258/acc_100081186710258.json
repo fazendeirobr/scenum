@@ -2,16 +2,17 @@
 	"sn": "facebook",
 	"login": "5551996443656",
 	"password": "mudar@123",
-	"status": 2,
+	"status": 1,
 	"id": "100081186710258",
 	"name": "",
 	"screenname": "Dana Patrick",
 	"birthdate": "1993 February 7",
 	"country": "",
-	"lastEventDate": "20.05.2022 17:01 01 - CRIAR CONTA",
+	"lastEventDate": "20.05.2022 17:06 01 - CRIAR CONTA",
 	"code2fa": "DI6KAFQBRNNW6PDAY3CFIXDL7HM5IUUZ",
 	"email": "melidasta@outlook.com",
 	"emailPassword": "inT3e3grITy",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"adsToken": "EAABsbCS1iHgBABdKDUHSB5a6kaBe0ZAJgvWrIpZB1vrdxAoZBKyN9bq4rryqJnF03HgYgi0ZCFXWMa9rfsQs0AdZAx0lP8Oks5ZAm0diZCSNJy2ReaQ6wfbOpr4ZAVGUkgM8KZAqdOZCoDugz1lb5lKmIiIFoBHPCMecK5lgi6DA3RBsdUcIZC6P5hBtEYztVHMEfrr9QwqTOWfWgZDZD"
 }
