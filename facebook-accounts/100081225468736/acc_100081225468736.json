@@ -9,5 +9,9 @@
 	"birthdate": "1996 March 15",
 	"country": "",
 	"lastEventDate": "21.05.2022 01:10 01 - CRIAR CONTA",
-	"code2fa": "T5QISEZSUSY2HAIBR6R2FCNRIEOQ7UZW"
+	"code2fa": "T5QISEZSUSY2HAIBR6R2FCNRIEOQ7UZW",
+	"email": "monettlesley86@outlook.com",
+	"emailPassword": "HpS9ogHNAlJ8",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
