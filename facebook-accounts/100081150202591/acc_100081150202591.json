@@ -9,5 +9,9 @@
 	"birthdate": "1988 March 27",
 	"country": "",
 	"lastEventDate": "21.05.2022 01:05 01 - CRIAR CONTA",
-	"code2fa": "M5N54BML3K6K7AYDAH54CXW7JHOU7465"
+	"code2fa": "M5N54BML3K6K7AYDAH54CXW7JHOU7465",
+	"email": "leonida_danis.1976@outlook.com",
+	"emailPassword": "tW797HMO9z",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
