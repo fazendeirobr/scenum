@@ -2,16 +2,17 @@
 	"sn": "facebook",
 	"login": "5522997379870",
 	"password": "mudar@123",
-	"status": 2,
+	"status": 1,
 	"id": "100081672721548",
 	"name": "",
 	"screenname": "Leda Bambina",
 	"birthdate": "2001 March 29",
 	"country": "",
-	"lastEventDate": "21.05.2022 01:12 01 - CRIAR CONTA",
+	"lastEventDate": "21.05.2022 01:16 01 - CRIAR CONTA",
 	"code2fa": "KHHTVYA7UNJGMJVGVBAVCKH5Y3LWUSCQ",
 	"email": "saturninapoff888@outlook.com",
 	"emailPassword": "elOQu92eNt",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"adsToken": "EAABsbCS1iHgBAG9xtcmwfcqw1qFyZAaRZBVCIsGAZBtBwmzWoRQp4W3wuEQQIbHpMZAwWoaM80cGXpiwZA5Wlc3vHZBZBjtBGbKZCH52wkBfDsZCFsENhcpmtjEjQRwIWkQGVK6TbVxnuMGp3ZC9QhoeGxFMyukig27CrcTRBRTcVBemkZCMViivOvvuYzZAaIzOFZBZCZChjTEN3jW3AZDZD"
 }
