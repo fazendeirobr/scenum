@@ -9,5 +9,9 @@
 	"screenname": "Flora Furio",
 	"birthdate": "1996 May 6",
 	"country": "",
-	"code2fa": "SSAKR7YJ47EIOW32A6N52LBS6S2VXQSE"
+	"code2fa": "SSAKR7YJ47EIOW32A6N52LBS6S2VXQSE",
+	"email": "ericka.moglia@outlook.com",
+	"emailPassword": "0EU16BeKA7D_",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
