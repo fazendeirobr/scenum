@@ -9,5 +9,9 @@
 	"birthdate": "1997 March 14",
 	"country": "",
 	"lastEventDate": "22.05.2022 21:36 01 - CRIAR CONTA",
-	"code2fa": "CIZ4NBOIIMEVCATMEKVU2ZSWLBEOFOGW"
+	"code2fa": "CIZ4NBOIIMEVCATMEKVU2ZSWLBEOFOGW",
+	"email": "roma.deandrea_67@outlook.com",
+	"emailPassword": "fas2h4ioN",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
