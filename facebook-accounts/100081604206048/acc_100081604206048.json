@@ -9,5 +9,9 @@
 	"birthdate": "1994 January 28",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:36 01 - CRIAR CONTA",
-	"code2fa": "DMWSRGEOHZVEALMQJF6PFBVV2VFFC2QY"
+	"code2fa": "DMWSRGEOHZVEALMQJF6PFBVV2VFFC2QY",
+	"email": "isabel_kochan@outlook.com",
+	"emailPassword": "3s1PRinkle",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
