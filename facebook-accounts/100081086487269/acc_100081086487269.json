@@ -9,5 +9,9 @@
 	"birthdate": "1996 March 28",
 	"country": "",
 	"lastEventDate": "22.05.2022 08:02 01 - CRIAR CONTA",
-	"code2fa": "N2WKJWLLWX5TG4SJDF4UEZ3SJFNHB7OV"
+	"code2fa": "N2WKJWLLWX5TG4SJDF4UEZ3SJFNHB7OV",
+	"email": "cozby_makenzie@outlook.com",
+	"emailPassword": "51sTable",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
