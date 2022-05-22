@@ -9,5 +9,9 @@
 	"birthdate": "1987 May 4",
 	"country": "",
 	"lastEventDate": "22.05.2022 05:38 01 - CRIAR CONTA",
-	"code2fa": "3YZKOAZAKTD5S3XTQYBYYCTSUMAXYTGZ"
+	"code2fa": "3YZKOAZAKTD5S3XTQYBYYCTSUMAXYTGZ",
+	"email": "beh.amina67@outlook.com",
+	"emailPassword": "tn7WHI$5",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
