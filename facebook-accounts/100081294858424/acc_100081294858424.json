@@ -9,5 +9,9 @@
 	"birthdate": "2001 May 11",
 	"country": "",
 	"lastEventDate": "22.05.2022 20:52 01 - CRIAR CONTA",
-	"code2fa": "5TL6JEX55PTEWUC2MSBGUNZTLDS7U4Y4"
+	"code2fa": "5TL6JEX55PTEWUC2MSBGUNZTLDS7U4Y4",
+	"email": "fljespersen.750@outlook.com",
+	"emailPassword": "zvo7Bqcp4",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
