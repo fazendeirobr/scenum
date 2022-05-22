@@ -9,5 +9,9 @@
 	"birthdate": "1992 February 16",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:57 01 - CRIAR CONTA",
-	"code2fa": "54DYAF3ZYGLKZX3MNT34MQXLFDCYYVXS"
+	"code2fa": "54DYAF3ZYGLKZX3MNT34MQXLFDCYYVXS",
+	"email": "jewell.maio82@outlook.com",
+	"emailPassword": "2CoNq6uer",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
