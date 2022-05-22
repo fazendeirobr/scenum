@@ -9,5 +9,9 @@
 	"birthdate": "1987 January 29",
 	"country": "",
 	"lastEventDate": "22.05.2022 04:46 01 - CRIAR CONTA",
-	"code2fa": "66KO62X5J5BA2NXSRVV3JTBXTD2PNZYG"
+	"code2fa": "66KO62X5J5BA2NXSRVV3JTBXTD2PNZYG",
+	"email": "jen.nellie1974@outlook.com",
+	"emailPassword": "U$y9CsKF",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
