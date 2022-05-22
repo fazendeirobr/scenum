@@ -9,5 +9,9 @@
 	"birthdate": "1997 January 10",
 	"country": "",
 	"lastEventDate": "22.05.2022 00:52 01 - CRIAR CONTA",
-	"code2fa": "OBT457CZ2WIW6IAZEGRP7GMGXFIZG6CX"
+	"code2fa": "OBT457CZ2WIW6IAZEGRP7GMGXFIZG6CX",
+	"email": "laudershalon@outlook.com",
+	"emailPassword": "2ri1ghtEous",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
