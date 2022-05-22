@@ -9,5 +9,9 @@
 	"birthdate": "1993 April 2",
 	"country": "",
 	"lastEventDate": "22.05.2022 01:52 01 - CRIAR CONTA",
-	"code2fa": "YL6GKDAB7PJRIQTSOD745FJH2Q3DIIU4"
+	"code2fa": "YL6GKDAB7PJRIQTSOD745FJH2Q3DIIU4",
+	"email": "renea_caul@outlook.com",
+	"emailPassword": "4c9ofFiN",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
