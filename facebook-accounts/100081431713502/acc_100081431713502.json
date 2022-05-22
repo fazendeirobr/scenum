@@ -9,5 +9,9 @@
 	"birthdate": "1997 January 17",
 	"country": "",
 	"lastEventDate": "22.05.2022 06:38 01 - CRIAR CONTA",
-	"code2fa": "NCDGGNEQ6P3XVCEELKDUBQFRPCBZVCTX"
+	"code2fa": "NCDGGNEQ6P3XVCEELKDUBQFRPCBZVCTX",
+	"email": "ozie.john@outlook.com",
+	"emailPassword": "8aSc4end",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
