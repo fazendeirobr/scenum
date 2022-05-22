@@ -9,5 +9,9 @@
 	"birthdate": "1997 March 9",
 	"country": "",
 	"lastEventDate": "22.05.2022 21:34 01 - CRIAR CONTA",
-	"code2fa": "NQSKSBDOOIFE2DCQDV2WLMWESCQTCSMM"
+	"code2fa": "NQSKSBDOOIFE2DCQDV2WLMWESCQTCSMM",
+	"email": "ina_kai@outlook.com",
+	"emailPassword": "4dIs6mantLe",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
