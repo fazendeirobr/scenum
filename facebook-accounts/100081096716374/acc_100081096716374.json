@@ -9,5 +9,9 @@
 	"birthdate": "1991 May 1",
 	"country": "",
 	"lastEventDate": "22.05.2022 01:49 01 - CRIAR CONTA",
-	"code2fa": "FTRSEQXSLNSELDESPO5WDEGJNFVNM2UR"
+	"code2fa": "FTRSEQXSLNSELDESPO5WDEGJNFVNM2UR",
+	"email": "samirapingel72@outlook.com",
+	"emailPassword": "k767o0a1A",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
