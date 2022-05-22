@@ -9,5 +9,9 @@
 	"birthdate": "2000 February 22",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:11 01 - CRIAR CONTA",
-	"code2fa": "WTW3SJUN3WDJM6H3PZ3BV3R34D5PRJK3"
+	"code2fa": "WTW3SJUN3WDJM6H3PZ3BV3R34D5PRJK3",
+	"email": "jessenianiel.80@outlook.com",
+	"emailPassword": "3coNFine",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
