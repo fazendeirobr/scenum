@@ -9,5 +9,9 @@
 	"birthdate": "2002 April 16",
 	"country": "",
 	"lastEventDate": "22.05.2022 00:20 01 - CRIAR CONTA",
-	"code2fa": "CHNRHWH2QMORDNU63A5MKQIF5QTHY4HX"
+	"code2fa": "CHNRHWH2QMORDNU63A5MKQIF5QTHY4HX",
+	"email": "ridg.reba@outlook.com",
+	"emailPassword": "T$9&tDc8AN",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
