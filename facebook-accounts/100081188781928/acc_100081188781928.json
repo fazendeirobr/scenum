@@ -9,5 +9,9 @@
 	"birthdate": "1990 April 10",
 	"country": "",
 	"lastEventDate": "22.05.2022 06:44 01 - CRIAR CONTA",
-	"code2fa": "NU3KCUR27NJ4YDW5F3MXTCEOEXOZ5HKY"
+	"code2fa": "NU3KCUR27NJ4YDW5F3MXTCEOEXOZ5HKY",
+	"email": "jayda.mahle@outlook.com",
+	"emailPassword": "toIIgIr6",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
