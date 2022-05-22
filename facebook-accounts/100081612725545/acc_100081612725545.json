@@ -9,5 +9,9 @@
 	"birthdate": "2000 January 22",
 	"country": "",
 	"lastEventDate": "22.05.2022 05:30 01 - CRIAR CONTA",
-	"code2fa": "WXGT3TZWLYZZ22TVEIRHS7FVKXBFY7TD"
+	"code2fa": "WXGT3TZWLYZZ22TVEIRHS7FVKXBFY7TD",
+	"email": "yellock.deborah@outlook.com",
+	"emailPassword": "B&vPLLY6Pg",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
