@@ -9,5 +9,9 @@
 	"birthdate": "2002 January 10",
 	"country": "",
 	"lastEventDate": "22.05.2022 08:15 01 - CRIAR CONTA",
-	"code2fa": "DMV646SJMHVW5IQFYYV5ZO5MNCQ66642"
+	"code2fa": "DMV646SJMHVW5IQFYYV5ZO5MNCQ66642",
+	"email": "harrenya@outlook.com",
+	"emailPassword": "9sC9atter",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
