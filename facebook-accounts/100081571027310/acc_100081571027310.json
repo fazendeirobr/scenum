@@ -9,5 +9,9 @@
 	"birthdate": "1991 March 13",
 	"country": "",
 	"lastEventDate": "22.05.2022 05:58 01 - CRIAR CONTA",
-	"code2fa": "2JCWNRHKF3O2WM4YF46427TUR5KUAE53"
+	"code2fa": "2JCWNRHKF3O2WM4YF46427TUR5KUAE53",
+	"email": "kasi.haught@outlook.com",
+	"emailPassword": "in8ci9DENce",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
