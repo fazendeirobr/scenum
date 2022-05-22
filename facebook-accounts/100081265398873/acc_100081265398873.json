@@ -9,5 +9,9 @@
 	"birthdate": "1992 March 2",
 	"country": "",
 	"lastEventDate": "22.05.2022 03:19 01 - CRIAR CONTA",
-	"code2fa": "Q4GUMZMYOQFH5QA5PNYHVZKTUGY3OREX"
+	"code2fa": "Q4GUMZMYOQFH5QA5PNYHVZKTUGY3OREX",
+	"email": "ronda_mertz@outlook.com",
+	"emailPassword": "fu63TUre",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
