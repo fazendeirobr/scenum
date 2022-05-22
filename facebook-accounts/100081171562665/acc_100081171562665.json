@@ -9,5 +9,9 @@
 	"birthdate": "1992 January 24",
 	"country": "",
 	"lastEventDate": "22.05.2022 04:43 01 - CRIAR CONTA",
-	"code2fa": "K73LEYG6H5BOYGETDFIX45UUNKTDE3CA"
+	"code2fa": "K73LEYG6H5BOYGETDFIX45UUNKTDE3CA",
+	"email": "tonie.serfass_1975@outlook.com",
+	"emailPassword": "r25egaRD",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
