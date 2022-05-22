@@ -8,5 +8,9 @@
 	"screenname": "Elisa Alves",
 	"birthdate": "2000 February 19",
 	"country": "",
-	"lastEventDate": "22.05.2022 02:25 01 - CRIAR CONTA"
+	"lastEventDate": "22.05.2022 02:25 01 - CRIAR CONTA",
+	"email": "vaill.mariann_79@outlook.com",
+	"emailPassword": "5Co1MpLy",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
