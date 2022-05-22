@@ -9,5 +9,9 @@
 	"birthdate": "1988 April 28",
 	"country": "",
 	"lastEventDate": "22.05.2022 00:28 01 - CRIAR CONTA",
-	"code2fa": "DGIBZSSN6MN5OQDHOZW2WLIVIWA7LU4O"
+	"code2fa": "DGIBZSSN6MN5OQDHOZW2WLIVIWA7LU4O",
+	"email": "mazieevano@outlook.com",
+	"emailPassword": "#UQ8yXR2jhB",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
