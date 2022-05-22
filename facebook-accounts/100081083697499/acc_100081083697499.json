@@ -9,5 +9,9 @@
 	"birthdate": "1988 May 6",
 	"country": "",
 	"lastEventDate": "22.05.2022 05:53 01 - CRIAR CONTA",
-	"code2fa": "LC5FE3OD5GA7L6CJFT6GJ3DVUS3ULAGA"
+	"code2fa": "LC5FE3OD5GA7L6CJFT6GJ3DVUS3ULAGA",
+	"email": "br.welcome.92@outlook.com",
+	"emailPassword": "a9C8cUrate",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
