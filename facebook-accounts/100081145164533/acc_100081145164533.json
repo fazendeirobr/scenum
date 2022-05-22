@@ -9,5 +9,9 @@
 	"birthdate": "1999 February 16",
 	"country": "",
 	"lastEventDate": "22.05.2022 08:39 01 - CRIAR CONTA",
-	"code2fa": "AXVWCILGJO6G56R32W32QIVZR6FAL6H4"
+	"code2fa": "AXVWCILGJO6G56R32W32QIVZR6FAL6H4",
+	"email": "vallia.adelyn75@outlook.com",
+	"emailPassword": "elo75qUent",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
