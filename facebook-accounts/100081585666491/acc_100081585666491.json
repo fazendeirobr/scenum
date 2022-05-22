@@ -9,5 +9,9 @@
 	"birthdate": "1996 January 9",
 	"country": "",
 	"lastEventDate": "22.05.2022 00:56 01 - CRIAR CONTA",
-	"code2fa": "A6GLP7PSRMI6WZBG3SLIDH5Z46HQNYVM"
+	"code2fa": "A6GLP7PSRMI6WZBG3SLIDH5Z46HQNYVM",
+	"email": "romer_lanita@outlook.com",
+	"emailPassword": "FqH64w&3",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
