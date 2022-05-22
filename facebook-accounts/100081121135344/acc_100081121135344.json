@@ -9,5 +9,9 @@
 	"birthdate": "1993 March 23",
 	"country": "",
 	"lastEventDate": "22.05.2022 05:09 01 - CRIAR CONTA",
-	"code2fa": "RT7RVAVLHO5SROB4ZSEOVXGYV4QMURI2"
+	"code2fa": "RT7RVAVLHO5SROB4ZSEOVXGYV4QMURI2",
+	"email": "cass.vada_87@outlook.com",
+	"emailPassword": "co78MprisE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
