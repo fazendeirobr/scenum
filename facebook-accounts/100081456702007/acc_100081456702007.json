@@ -9,5 +9,9 @@
 	"birthdate": "1990 March 12",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:09 01 - CRIAR CONTA",
-	"code2fa": "AIX7KWRM6QCJEBRKCRPVMCIY47FVDJ4B"
+	"code2fa": "AIX7KWRM6QCJEBRKCRPVMCIY47FVDJ4B",
+	"email": "thelma.dabrow@outlook.com",
+	"emailPassword": "JQih#3i0cl",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
