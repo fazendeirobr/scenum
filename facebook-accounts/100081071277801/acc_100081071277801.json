@@ -9,5 +9,9 @@
 	"birthdate": "1998 April 1",
 	"country": "",
 	"lastEventDate": "22.05.2022 06:10 01 - CRIAR CONTA",
-	"code2fa": "HNMJUI7XCXNBMS3RBBOVF3FFE5LI5SKK"
+	"code2fa": "HNMJUI7XCXNBMS3RBBOVF3FFE5LI5SKK",
+	"email": "hyun_laur@outlook.com",
+	"emailPassword": "8oPpos4ITE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
