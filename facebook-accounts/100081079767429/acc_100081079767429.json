@@ -9,5 +9,9 @@
 	"birthdate": "",
 	"country": "",
 	"lastEventDate": "22.05.2022 04:10 01 - CRIAR CONTA",
-	"code2fa": "RBEUOURU73ZEIROIA744SH7DALQFZ6CM"
+	"code2fa": "RBEUOURU73ZEIROIA744SH7DALQFZ6CM",
+	"email": "x_kullman.58@outlook.com",
+	"emailPassword": "w73elFAre",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
