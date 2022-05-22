@@ -9,5 +9,9 @@
 	"birthdate": "1993 April 9",
 	"country": "",
 	"lastEventDate": "22.05.2022 02:51 01 - CRIAR CONTA",
-	"code2fa": "SS2RZNS5IENHY66JJP3FJ3YBV7TZ7WPV"
+	"code2fa": "SS2RZNS5IENHY66JJP3FJ3YBV7TZ7WPV",
+	"email": "buckhannon.traci@outlook.com",
+	"emailPassword": "alt76ItudE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
