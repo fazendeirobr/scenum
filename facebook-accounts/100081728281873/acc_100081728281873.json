@@ -9,5 +9,9 @@
 	"birthdate": "1998 April 2",
 	"country": "",
 	"lastEventDate": "22.05.2022 09:15 01 - CRIAR CONTA",
-	"code2fa": "EKC3MQGCKBBYRZSNKM3PYLNB7MYZD6MU"
+	"code2fa": "EKC3MQGCKBBYRZSNKM3PYLNB7MYZD6MU",
+	"email": "reinsjenae@outlook.com",
+	"emailPassword": "d7i0SRUpt",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
