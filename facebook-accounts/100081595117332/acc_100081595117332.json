@@ -9,5 +9,9 @@
 	"birthdate": "2000 March 7",
 	"country": "",
 	"lastEventDate": "22.05.2022 21:09 01 - CRIAR CONTA",
-	"code2fa": "6FT5TJKGSMP3CW3PNZDESBSNHS7PBHCK"
+	"code2fa": "6FT5TJKGSMP3CW3PNZDESBSNHS7PBHCK",
+	"email": "bessent.ka@outlook.com",
+	"emailPassword": "thw45Art",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
