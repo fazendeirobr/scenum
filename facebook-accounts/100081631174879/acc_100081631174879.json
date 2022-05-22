@@ -9,5 +9,9 @@
 	"birthdate": "1991 April 26",
 	"country": "",
 	"lastEventDate": "22.05.2022 04:45 01 - CRIAR CONTA",
-	"code2fa": "B672YBISF6GKEWDXT23BHTI6SN3ZOYDS"
+	"code2fa": "B672YBISF6GKEWDXT23BHTI6SN3ZOYDS",
+	"email": "potter.michal91@outlook.com",
+	"emailPassword": "baT26Ter",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
