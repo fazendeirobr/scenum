@@ -9,5 +9,9 @@
 	"birthdate": "2001 January 12",
 	"country": "",
 	"lastEventDate": "22.05.2022 08:58 01 - CRIAR CONTA",
-	"code2fa": "UD5JVU2CYGKLFRJYITHMSKUDIIVVAGZR"
+	"code2fa": "UD5JVU2CYGKLFRJYITHMSKUDIIVVAGZR",
+	"email": "cos.ireland@outlook.com",
+	"emailPassword": "nJ8PYK2Ux",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
