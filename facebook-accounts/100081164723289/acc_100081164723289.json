@@ -9,5 +9,9 @@
 	"birthdate": "1997 January 20",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:19 01 - CRIAR CONTA",
-	"code2fa": "DFYHQJIZA7CYKHENN5ED3HH2D7AOQVZI"
+	"code2fa": "DFYHQJIZA7CYKHENN5ED3HH2D7AOQVZI",
+	"email": "mcdonagh_j@outlook.com",
+	"emailPassword": "8adj6EctIVe",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
