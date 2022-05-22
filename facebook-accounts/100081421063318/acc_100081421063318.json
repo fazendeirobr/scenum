@@ -9,5 +9,9 @@
 	"birthdate": "1990 April 7",
 	"country": "",
 	"lastEventDate": "22.05.2022 04:32 01 - CRIAR CONTA",
-	"code2fa": "CTSE7OZ2NA2LTSQOCCF6H4WPPCDL2GGD"
+	"code2fa": "CTSE7OZ2NA2LTSQOCCF6H4WPPCDL2GGD",
+	"email": "eliz.ges@outlook.com",
+	"emailPassword": "2Cat6tLe",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
