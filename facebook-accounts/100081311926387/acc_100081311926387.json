@@ -9,5 +9,9 @@
 	"screenname": "Edite Santos",
 	"birthdate": "2002 May 6",
 	"country": "",
-	"code2fa": "3VXABIL26PDXH2CRWJK4AA5O3QRFDXEH"
+	"code2fa": "3VXABIL26PDXH2CRWJK4AA5O3QRFDXEH",
+	"email": "magdalenahewlett92@outlook.com",
+	"emailPassword": "alt1iTuDE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
