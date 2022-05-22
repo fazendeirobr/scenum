@@ -9,5 +9,9 @@
 	"birthdate": "2000 January 24",
 	"country": "",
 	"lastEventDate": "22.05.2022 03:13 01 - CRIAR CONTA",
-	"code2fa": "A3KVDYCOL6CUHHVFN7KLDR5FUQ5PKWI4"
+	"code2fa": "A3KVDYCOL6CUHHVFN7KLDR5FUQ5PKWI4",
+	"email": "suit_amal91@outlook.com",
+	"emailPassword": "64AuG0G8n",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
