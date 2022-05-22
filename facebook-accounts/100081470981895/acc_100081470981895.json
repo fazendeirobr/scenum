@@ -9,5 +9,9 @@
 	"birthdate": "1987 March 30",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:59 01 - CRIAR CONTA",
-	"code2fa": "QSBMMZR5GIARDUYUTGXYJYBWR2OX3U7E"
+	"code2fa": "QSBMMZR5GIARDUYUTGXYJYBWR2OX3U7E",
+	"email": "krob.vivianna574@outlook.com",
+	"emailPassword": "e6S5CaPe",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
