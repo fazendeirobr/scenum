@@ -9,5 +9,9 @@
 	"birthdate": "1989 April 5",
 	"country": "",
 	"lastEventDate": "22.05.2022 05:37 01 - CRIAR CONTA",
-	"code2fa": "ILJYE6FIUYABAWGQCLCIIXZELA3WPDWD"
+	"code2fa": "ILJYE6FIUYABAWGQCLCIIXZELA3WPDWD",
+	"email": "jacelyn_gelb@outlook.com",
+	"emailPassword": "YO1&1$L1B",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
