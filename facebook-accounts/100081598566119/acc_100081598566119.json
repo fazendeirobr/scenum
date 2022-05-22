@@ -9,5 +9,9 @@
 	"birthdate": "1987 April 27",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:58 01 - CRIAR CONTA",
-	"code2fa": "HK5VFNTFKLTNGI32MAZ5NZRH6YKM2BZN"
+	"code2fa": "HK5VFNTFKLTNGI32MAZ5NZRH6YKM2BZN",
+	"email": "petrinherminia@outlook.com",
+	"emailPassword": "05oCcupY",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
