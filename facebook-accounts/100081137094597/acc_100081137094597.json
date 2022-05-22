@@ -9,5 +9,9 @@
 	"birthdate": "1991 April 8",
 	"country": "",
 	"lastEventDate": "22.05.2022 03:07 01 - CRIAR CONTA",
-	"code2fa": "BOY5CQZP65BNYJO24DJJPPJ7HALQX44P"
+	"code2fa": "BOY5CQZP65BNYJO24DJJPPJ7HALQX44P",
+	"email": "weatherbee_s@outlook.com",
+	"emailPassword": "hY%QNd4ZF9B",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
