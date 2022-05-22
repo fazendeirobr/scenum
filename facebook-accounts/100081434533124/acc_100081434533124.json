@@ -9,5 +9,9 @@
 	"birthdate": "1995 January 16",
 	"country": "",
 	"lastEventDate": "22.05.2022 04:49 01 - CRIAR CONTA",
-	"code2fa": "73LA2G3EV5SVTBVRMUDG6L4E5M4MKSNI"
+	"code2fa": "73LA2G3EV5SVTBVRMUDG6L4E5M4MKSNI",
+	"email": "geessean.93@outlook.com",
+	"emailPassword": "a5f4RAid",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
