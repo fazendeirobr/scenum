@@ -9,5 +9,9 @@
 	"birthdate": "1995 January 21",
 	"country": "",
 	"lastEventDate": "22.05.2022 03:18 01 - CRIAR CONTA",
-	"code2fa": "N2LQ3B5TQCVDROVLCTODC3MRIIDYHAMX"
+	"code2fa": "N2LQ3B5TQCVDROVLCTODC3MRIIDYHAMX",
+	"email": "bdorthy_71@outlook.com",
+	"emailPassword": "KgDzIe1F$ao",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
