@@ -9,5 +9,9 @@
 	"birthdate": "1997 March 31",
 	"country": "",
 	"lastEventDate": "22.05.2022 08:59 01 - CRIAR CONTA",
-	"code2fa": "JRHRCJ63JV4HDYT75KHDP7C4BLRNPCK5"
+	"code2fa": "JRHRCJ63JV4HDYT75KHDP7C4BLRNPCK5",
+	"email": "dedelevitt_444@outlook.com",
+	"emailPassword": "InH7i2Bit",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
