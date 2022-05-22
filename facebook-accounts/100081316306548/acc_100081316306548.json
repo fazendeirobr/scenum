@@ -9,5 +9,9 @@
 	"birthdate": "1991 April 2",
 	"country": "",
 	"lastEventDate": "22.05.2022 08:13 01 - CRIAR CONTA",
-	"code2fa": "IP4QOP23R2MMM3LCVWL5LHLHJOUBBZ4P"
+	"code2fa": "IP4QOP23R2MMM3LCVWL5LHLHJOUBBZ4P",
+	"email": "brumer_ermelinda@outlook.com",
+	"emailPassword": "3ob6stAclE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
