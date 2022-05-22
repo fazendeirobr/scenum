@@ -9,5 +9,9 @@
 	"birthdate": "1990 April 27",
 	"country": "",
 	"lastEventDate": "22.05.2022 05:51 01 - CRIAR CONTA",
-	"code2fa": "3KHJKCBVKFHHTZRPXHQLJSM75CXHJDZK"
+	"code2fa": "3KHJKCBVKFHHTZRPXHQLJSM75CXHJDZK",
+	"email": "creary.nicolette@outlook.com",
+	"emailPassword": "diS1T5ract",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
