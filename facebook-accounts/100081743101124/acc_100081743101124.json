@@ -9,5 +9,9 @@
 	"birthdate": "1996 May 21",
 	"country": "",
 	"lastEventDate": "22.05.2022 00:25 01 - CRIAR CONTA",
-	"code2fa": "QEN7NQ3D46PICVLZTOF4FA2CMP2MSUEU"
+	"code2fa": "QEN7NQ3D46PICVLZTOF4FA2CMP2MSUEU",
+	"email": "shanelnichol@outlook.com",
+	"emailPassword": "res55UrreCT",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
