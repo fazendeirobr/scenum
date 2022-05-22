@@ -9,5 +9,9 @@
 	"birthdate": "2000 April 17",
 	"country": "",
 	"lastEventDate": "22.05.2022 05:08 01 - CRIAR CONTA",
-	"code2fa": "5S7EYNVOQ55FLOTACWIDIZY27CDTSPD4"
+	"code2fa": "5S7EYNVOQ55FLOTACWIDIZY27CDTSPD4",
+	"email": "barbara.kup@outlook.com",
+	"emailPassword": "LjlR4g6m",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
