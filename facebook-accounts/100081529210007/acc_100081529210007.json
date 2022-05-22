@@ -9,5 +9,9 @@
 	"birthdate": "1999 May 15",
 	"country": "",
 	"lastEventDate": "22.05.2022 21:45 01 - CRIAR CONTA",
-	"code2fa": "LFRHVVECUHIIB5UOQ6MDHF3PWBBFX3EV"
+	"code2fa": "LFRHVVECUHIIB5UOQ6MDHF3PWBBFX3EV",
+	"email": "rehmashlea@outlook.com",
+	"emailPassword": "veC_D0D1Au@o",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
