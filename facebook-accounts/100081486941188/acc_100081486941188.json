@@ -9,5 +9,9 @@
 	"birthdate": "1998 January 30",
 	"country": "",
 	"lastEventDate": "22.05.2022 05:44 01 - CRIAR CONTA",
-	"code2fa": "S3JJK7WXPEFJTUKRCYOD3Y2BUY7XE6E7"
+	"code2fa": "S3JJK7WXPEFJTUKRCYOD3Y2BUY7XE6E7",
+	"email": "stretchramona@outlook.com",
+	"emailPassword": "rX#107X9",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
