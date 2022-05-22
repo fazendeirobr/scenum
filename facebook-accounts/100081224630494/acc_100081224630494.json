@@ -9,5 +9,9 @@
 	"birthdate": "1987 February 23",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:39 01 - CRIAR CONTA",
-	"code2fa": "U57CJYOUF7SFEQI4ETDOYDDKKSCG2R4K"
+	"code2fa": "U57CJYOUF7SFEQI4ETDOYDDKKSCG2R4K",
+	"email": "jordahl.rosanna.86@outlook.com",
+	"emailPassword": "nfiH$MLkr0J",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
