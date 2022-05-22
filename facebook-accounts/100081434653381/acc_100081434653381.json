@@ -9,5 +9,9 @@
 	"birthdate": "1999 April 8",
 	"country": "",
 	"lastEventDate": "22.05.2022 08:50 01 - CRIAR CONTA",
-	"code2fa": "QEGWSXIZJM2KMHI4YPYX3JCCDXD4CC64"
+	"code2fa": "QEGWSXIZJM2KMHI4YPYX3JCCDXD4CC64",
+	"email": "mceldrew_67@outlook.com",
+	"emailPassword": "g6cH1aZxzbI",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
