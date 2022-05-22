@@ -9,5 +9,9 @@
 	"birthdate": "1988 March 25",
 	"country": "",
 	"lastEventDate": "22.05.2022 04:11 01 - CRIAR CONTA",
-	"code2fa": "CIR3G2CAKQJPNC3ZEUKADHUOBO3YKPXH"
+	"code2fa": "CIR3G2CAKQJPNC3ZEUKADHUOBO3YKPXH",
+	"email": "clarettachicoine72@outlook.com",
+	"emailPassword": "94stRAnd",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
