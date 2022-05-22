@@ -9,5 +9,9 @@
 	"birthdate": "2002 May 9",
 	"country": "",
 	"lastEventDate": "22.05.2022 20:17 01 - CRIAR CONTA",
-	"code2fa": "R4KZJAW3INKMTKPJLMLYE2WU7JI4D3UY"
+	"code2fa": "R4KZJAW3INKMTKPJLMLYE2WU7JI4D3UY",
+	"email": "kwoktammi@outlook.com",
+	"emailPassword": "As21sUmE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
