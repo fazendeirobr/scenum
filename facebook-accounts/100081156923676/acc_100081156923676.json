@@ -9,5 +9,9 @@
 	"birthdate": "1998 May 7",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:05 01 - CRIAR CONTA",
-	"code2fa": "JKO2ZEV4HIEAY3DHENZCQUPWZW6TMMYM"
+	"code2fa": "JKO2ZEV4HIEAY3DHENZCQUPWZW6TMMYM",
+	"email": "waream@outlook.com",
+	"emailPassword": "x95N0W9A",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
