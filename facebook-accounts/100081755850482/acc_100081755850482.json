@@ -9,5 +9,9 @@
 	"birthdate": "1998 April 6",
 	"country": "",
 	"lastEventDate": "22.05.2022 02:41 01 - CRIAR CONTA",
-	"code2fa": "2DDFJDGCJDVGZNF2NN6JHQS2P2NIZCLB"
+	"code2fa": "2DDFJDGCJDVGZNF2NN6JHQS2P2NIZCLB",
+	"email": "ni_mickie.65@outlook.com",
+	"emailPassword": "sLLR3706@fK",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
