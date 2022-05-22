@@ -9,5 +9,9 @@
 	"screenname": "Viviane Moreau",
 	"birthdate": "1987 April 20",
 	"country": "",
-	"code2fa": "B5TM5ZKLIJ6CYA5SRXSXCU5DRRPZH4OQ"
+	"code2fa": "B5TM5ZKLIJ6CYA5SRXSXCU5DRRPZH4OQ",
+	"email": "loflin.vernia.93@outlook.com",
+	"emailPassword": "HpD%kc10dZQ",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
