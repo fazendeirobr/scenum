@@ -9,5 +9,9 @@
 	"birthdate": "2002 April 7",
 	"country": "",
 	"lastEventDate": "22.05.2022 03:58 01 - CRIAR CONTA",
-	"code2fa": "OQXPQJOYDB6GIFW2MRJ2RQTDWQAAKTX6"
+	"code2fa": "OQXPQJOYDB6GIFW2MRJ2RQTDWQAAKTX6",
+	"email": "rossdori90@outlook.com",
+	"emailPassword": "EP$3Ji5MuQ",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
