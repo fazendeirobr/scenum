@@ -9,5 +9,9 @@
 	"birthdate": "1999 April 1",
 	"country": "",
 	"lastEventDate": "22.05.2022 07:34 01 - CRIAR CONTA",
-	"code2fa": "NODIJAEDJ3AA7Q55XDHEJWFDRVCC6QIH"
+	"code2fa": "NODIJAEDJ3AA7Q55XDHEJWFDRVCC6QIH",
+	"email": "winnie.stacia91@outlook.com",
+	"emailPassword": "dJ%Qn4o2R2d",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
