@@ -9,5 +9,9 @@
 	"birthdate": "1991 January 6",
 	"country": "",
 	"lastEventDate": "23.05.2022 21:37 01 - CRIAR CONTA",
-	"code2fa": "HU65ZOC2XOOFD4W2HBRDGJDKBYWD7MDV"
+	"code2fa": "HU65ZOC2XOOFD4W2HBRDGJDKBYWD7MDV",
+	"email": "wadleigh.mellissa77@outlook.com",
+	"emailPassword": "4magNItUde",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
