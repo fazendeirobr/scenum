@@ -9,5 +9,9 @@
 	"birthdate": "1997 April 27",
 	"country": "",
 	"lastEventDate": "23.05.2022 09:08 01 - CRIAR CONTA",
-	"code2fa": "SJETVP5UJHVQ4Q57JYNAHEJQ3MK7EHCV"
+	"code2fa": "SJETVP5UJHVQ4Q57JYNAHEJQ3MK7EHCV",
+	"email": "tennie_happ@outlook.com",
+	"emailPassword": "Os@uy9yP7C",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
