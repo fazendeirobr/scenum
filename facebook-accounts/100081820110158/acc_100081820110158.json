@@ -9,5 +9,9 @@
 	"birthdate": "2002 May 2",
 	"country": "",
 	"lastEventDate": "23.05.2022 21:49 01 - CRIAR CONTA",
-	"code2fa": "6B5VPCXD37Y5Z2EDXNE2WHAAPINVSCCE"
+	"code2fa": "6B5VPCXD37Y5Z2EDXNE2WHAAPINVSCCE",
+	"email": "jomatter99@outlook.com",
+	"emailPassword": "7rNRdWouw3",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
