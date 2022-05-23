@@ -9,5 +9,9 @@
 	"birthdate": "1999 January 23",
 	"country": "",
 	"lastEventDate": "23.05.2022 02:27 01 - CRIAR CONTA",
-	"code2fa": "BYW6NUY2T3NLKUOJJNMQSUOX6RIMNEAR"
+	"code2fa": "BYW6NUY2T3NLKUOJJNMQSUOX6RIMNEAR",
+	"email": "lo.camellia@outlook.com",
+	"emailPassword": "O7u2ZSaF",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
