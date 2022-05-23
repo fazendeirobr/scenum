@@ -9,5 +9,9 @@
 	"birthdate": "2002 March 5",
 	"country": "",
 	"lastEventDate": "23.05.2022 15:23 01 - CRIAR CONTA",
-	"code2fa": "CEHEA45FJ57QUMKC77L6XICCOKD7C6QU"
+	"code2fa": "CEHEA45FJ57QUMKC77L6XICCOKD7C6QU",
+	"email": "flora.schwa@outlook.com",
+	"emailPassword": "int6Es3TInE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
