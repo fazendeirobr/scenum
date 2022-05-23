@@ -9,5 +9,9 @@
 	"birthdate": "2000 January 4",
 	"country": "",
 	"lastEventDate": "23.05.2022 15:36 01 - CRIAR CONTA",
-	"code2fa": "SQDYUEEN53PWRWLBDEBZTZQV524URGZR"
+	"code2fa": "SQDYUEEN53PWRWLBDEBZTZQV524URGZR",
+	"email": "olida_haisl@outlook.com",
+	"emailPassword": "62jZFpJ_tn",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
