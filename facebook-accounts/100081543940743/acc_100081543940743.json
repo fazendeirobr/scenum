@@ -9,5 +9,9 @@
 	"birthdate": "1997 March 31",
 	"country": "",
 	"lastEventDate": "23.05.2022 20:11 01 - CRIAR CONTA",
-	"code2fa": "E22JJXMYY4275EHXP2FGLGG6WWVLCCMD"
+	"code2fa": "E22JJXMYY4275EHXP2FGLGG6WWVLCCMD",
+	"email": "greenan_annett@outlook.com",
+	"emailPassword": "oV21erTake",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
