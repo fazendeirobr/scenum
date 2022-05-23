@@ -9,5 +9,9 @@
 	"birthdate": "2000 January 16",
 	"country": "",
 	"lastEventDate": "23.05.2022 23:18 01 - CRIAR CONTA",
-	"code2fa": "XS43SGMD2QFNO2YYKW42IQIBB7564SJ7"
+	"code2fa": "XS43SGMD2QFNO2YYKW42IQIBB7564SJ7",
+	"email": "yolandosauve.82@outlook.com",
+	"emailPassword": "QOgN7KAxt",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
