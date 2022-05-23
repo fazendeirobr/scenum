@@ -9,5 +9,9 @@
 	"birthdate": "1993 February 22",
 	"country": "",
 	"lastEventDate": "23.05.2022 20:25 01 - CRIAR CONTA",
-	"code2fa": "RCSYFG4VLG5JMR54GGOH6WY2RPN72B5F"
+	"code2fa": "RCSYFG4VLG5JMR54GGOH6WY2RPN72B5F",
+	"email": "mimi.brit@outlook.com",
+	"emailPassword": "Qud3yUjk&RS",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
