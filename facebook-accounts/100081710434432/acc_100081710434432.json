@@ -9,5 +9,9 @@
 	"birthdate": "1988 April 28",
 	"country": "",
 	"lastEventDate": "23.05.2022 22:03 01 - CRIAR CONTA",
-	"code2fa": "OJL2DDLROKKXBZBBEEVVY5DGYJMXQ24F"
+	"code2fa": "OJL2DDLROKKXBZBBEEVVY5DGYJMXQ24F",
+	"email": "keelyban@outlook.com",
+	"emailPassword": "hEs3it9ate",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
