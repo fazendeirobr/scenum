@@ -9,5 +9,9 @@
 	"birthdate": "1995 January 22",
 	"country": "",
 	"lastEventDate": "23.05.2022 22:59 01 - CRIAR CONTA",
-	"code2fa": "TCKEVWHHWPTNFDIJUO7NPB6BSKH4GHWB"
+	"code2fa": "TCKEVWHHWPTNFDIJUO7NPB6BSKH4GHWB",
+	"email": "wedelaudry_00@outlook.com",
+	"emailPassword": "obE8di8eNce",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
