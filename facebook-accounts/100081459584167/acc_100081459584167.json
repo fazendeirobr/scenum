@@ -9,5 +9,9 @@
 	"birthdate": "1987 March 10",
 	"country": "",
 	"lastEventDate": "23.05.2022 08:48 01 - CRIAR CONTA",
-	"code2fa": "UMN5DUZRINP34WQPBZ4M2NS2X4TZOIQ3"
+	"code2fa": "UMN5DUZRINP34WQPBZ4M2NS2X4TZOIQ3",
+	"email": "seegerrosalee@outlook.com",
+	"emailPassword": "76INeAIqw",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
