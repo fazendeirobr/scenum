@@ -9,5 +9,9 @@
 	"birthdate": "1994 January 7",
 	"country": "",
 	"lastEventDate": "23.05.2022 02:56 01 - CRIAR CONTA",
-	"code2fa": "CR35ZL267E73OPHPV6MD56JK6YCRUKRL"
+	"code2fa": "CR35ZL267E73OPHPV6MD56JK6YCRUKRL",
+	"email": "dsayer95@outlook.com",
+	"emailPassword": "OF8__3qJmg",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
