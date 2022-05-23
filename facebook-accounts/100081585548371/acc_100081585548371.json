@@ -9,5 +9,9 @@
 	"birthdate": "1989 January 22",
 	"country": "",
 	"lastEventDate": "23.05.2022 09:05 01 - CRIAR CONTA",
-	"code2fa": "CR65EI7CUL6YBV7T2MFU7HV3VNPRWADZ"
+	"code2fa": "CR65EI7CUL6YBV7T2MFU7HV3VNPRWADZ",
+	"email": "rideoutlezlie@outlook.com",
+	"emailPassword": "g6C1nRMoDGEe",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
