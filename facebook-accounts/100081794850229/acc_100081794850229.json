@@ -9,5 +9,9 @@
 	"birthdate": "2001 March 24",
 	"country": "",
 	"lastEventDate": "23.05.2022 05:47 01 - CRIAR CONTA",
-	"code2fa": "VVDXA6FIEYAI7RSD25NZSXFRL5BNQOES"
+	"code2fa": "VVDXA6FIEYAI7RSD25NZSXFRL5BNQOES",
+	"email": "picotcr@outlook.com",
+	"emailPassword": "r59esearCh",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
