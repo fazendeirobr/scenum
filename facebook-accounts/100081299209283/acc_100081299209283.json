@@ -9,5 +9,9 @@
 	"birthdate": "2001 February 6",
 	"country": "",
 	"lastEventDate": "23.05.2022 21:07 01 - CRIAR CONTA",
-	"code2fa": "VDPCH55CQMXGQEGLTUCYM352HFTBUD4R"
+	"code2fa": "VDPCH55CQMXGQEGLTUCYM352HFTBUD4R",
+	"email": "ste.learned1986@outlook.com",
+	"emailPassword": "ex4c5lAIm",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
