@@ -9,5 +9,9 @@
 	"birthdate": "1988 March 16",
 	"country": "",
 	"lastEventDate": "23.05.2022 01:42 01 - CRIAR CONTA",
-	"code2fa": "X4OIGUDSGKWYQZKM4QLSN4OWFJRUCERR"
+	"code2fa": "X4OIGUDSGKWYQZKM4QLSN4OWFJRUCERR",
+	"email": "lenora.yagle@outlook.com",
+	"emailPassword": "s2p1eCiEs",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
