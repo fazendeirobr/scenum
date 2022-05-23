@@ -9,5 +9,9 @@
 	"birthdate": "1996 February 14",
 	"country": "",
 	"lastEventDate": "23.05.2022 09:02 01 - CRIAR CONTA",
-	"code2fa": "HC3ZLKDSNVOKBJ5EJD2W3GP4KYE42AO7"
+	"code2fa": "HC3ZLKDSNVOKBJ5EJD2W3GP4KYE42AO7",
+	"email": "ackersonsabina@outlook.com",
+	"emailPassword": "f5U6rnISH",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
