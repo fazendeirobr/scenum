@@ -9,5 +9,9 @@
 	"birthdate": "1999 February 26",
 	"country": "",
 	"lastEventDate": "23.05.2022 03:03 01 - CRIAR CONTA",
-	"code2fa": "2E5OP6OVXZVDQZ5YHC4FJ5MAWA7ET4D2"
+	"code2fa": "2E5OP6OVXZVDQZ5YHC4FJ5MAWA7ET4D2",
+	"email": "ra.aracely@outlook.com",
+	"emailPassword": "Co3R1pSe",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
