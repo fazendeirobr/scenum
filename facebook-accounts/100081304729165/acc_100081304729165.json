@@ -9,5 +9,9 @@
 	"birthdate": "1993 May 5",
 	"country": "",
 	"lastEventDate": "23.05.2022 22:33 01 - CRIAR CONTA",
-	"code2fa": "KFKE52CRYEKK2CMYNWBO6ANS4IFS2RJN"
+	"code2fa": "KFKE52CRYEKK2CMYNWBO6ANS4IFS2RJN",
+	"email": "verdejoalethia1993@outlook.com",
+	"emailPassword": "uNdErPA5nts",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
