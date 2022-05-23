@@ -9,5 +9,9 @@
 	"birthdate": "2002 May 6",
 	"country": "",
 	"lastEventDate": "23.05.2022 02:54 01 - CRIAR CONTA",
-	"code2fa": "YQTVK2CDCDV3BSO643MFBSDIQOJRI3JK"
+	"code2fa": "YQTVK2CDCDV3BSO643MFBSDIQOJRI3JK",
+	"email": "sudol_glendora@outlook.com",
+	"emailPassword": "&7dBYgW@HU",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
