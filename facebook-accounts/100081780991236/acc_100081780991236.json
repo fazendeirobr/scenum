@@ -9,5 +9,9 @@
 	"birthdate": "1998 January 24",
 	"country": "",
 	"lastEventDate": "23.05.2022 08:35 01 - CRIAR CONTA",
-	"code2fa": "NHBC5TU4CNNTQAKZDHI2ENLKYA7FPOBV"
+	"code2fa": "NHBC5TU4CNNTQAKZDHI2ENLKYA7FPOBV",
+	"email": "lawanda.halley97@outlook.com",
+	"emailPassword": "8bu9tTErFLy",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
