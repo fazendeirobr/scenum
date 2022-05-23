@@ -9,5 +9,9 @@
 	"birthdate": "1989 April 2",
 	"country": "",
 	"lastEventDate": "23.05.2022 22:49 01 - CRIAR CONTA",
-	"code2fa": "2UDCXAAMVPE3ZANULQER46NR2TBXAYS2"
+	"code2fa": "2UDCXAAMVPE3ZANULQER46NR2TBXAYS2",
+	"email": "m.saber.1965@outlook.com",
+	"emailPassword": "8cr3uNcH",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
