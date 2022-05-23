@@ -9,5 +9,9 @@
 	"birthdate": "1990 April 8",
 	"country": "",
 	"lastEventDate": "23.05.2022 14:47 01 - CRIAR CONTA",
-	"code2fa": "Q7ZQKIVD33HKOSP36QTCPLMMMBXKONHQ"
+	"code2fa": "Q7ZQKIVD33HKOSP36QTCPLMMMBXKONHQ",
+	"email": "kr.leopard1968@outlook.com",
+	"emailPassword": "7marI8tal",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
