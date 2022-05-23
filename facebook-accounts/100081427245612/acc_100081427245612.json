@@ -9,5 +9,9 @@
 	"birthdate": "1990 May 6",
 	"country": "",
 	"lastEventDate": "23.05.2022 17:17 01 - CRIAR CONTA",
-	"code2fa": "VKLD4N6PUI4IVNEQRUBKKJUEBLIG6D35"
+	"code2fa": "VKLD4N6PUI4IVNEQRUBKKJUEBLIG6D35",
+	"email": "puthosanda@outlook.com",
+	"emailPassword": "uWz9Rwpa",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
