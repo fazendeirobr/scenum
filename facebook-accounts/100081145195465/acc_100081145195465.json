@@ -9,5 +9,9 @@
 	"birthdate": "1989 January 11",
 	"country": "",
 	"lastEventDate": "23.05.2022 05:19 01 - CRIAR CONTA",
-	"code2fa": "MC6H7HRA5QXBSGLKBL2M2NMNF6BRIWOY"
+	"code2fa": "MC6H7HRA5QXBSGLKBL2M2NMNF6BRIWOY",
+	"email": "natashialemen@outlook.com",
+	"emailPassword": "2rE2port",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
