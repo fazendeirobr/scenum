@@ -9,5 +9,9 @@
 	"birthdate": "1987 January 13",
 	"country": "",
 	"lastEventDate": "23.05.2022 14:58 01 - CRIAR CONTA",
-	"code2fa": "DETPNNAQSDAY6MLR3CKJMY5HWBYGAFYF"
+	"code2fa": "DETPNNAQSDAY6MLR3CKJMY5HWBYGAFYF",
+	"email": "buikema.cl@outlook.com",
+	"emailPassword": "c13LeRGY",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
