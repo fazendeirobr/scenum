@@ -9,5 +9,9 @@
 	"birthdate": "2000 February 27",
 	"country": "",
 	"lastEventDate": "23.05.2022 13:50 01 - CRIAR CONTA",
-	"code2fa": "BLFPSHFGHCTU54DXJUGYOX7XNBPA44QK"
+	"code2fa": "BLFPSHFGHCTU54DXJUGYOX7XNBPA44QK",
+	"email": "kukayla65@outlook.com",
+	"emailPassword": "infe8R3IOR",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
