@@ -9,5 +9,9 @@
 	"birthdate": "1989 February 17",
 	"country": "",
 	"lastEventDate": "23.05.2022 21:26 01 - CRIAR CONTA",
-	"code2fa": "2BQSXA3ENKQKVZV6ZPP3D3CAY2G2WZAE"
+	"code2fa": "2BQSXA3ENKQKVZV6ZPP3D3CAY2G2WZAE",
+	"email": "george.lefler@outlook.com",
+	"emailPassword": "rAoqZT48rt",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
