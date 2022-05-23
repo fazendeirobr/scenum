@@ -9,5 +9,9 @@
 	"birthdate": "1987 January 2",
 	"country": "",
 	"lastEventDate": "23.05.2022 01:06 01 - CRIAR CONTA",
-	"code2fa": "LALGFSEEKGSDZI7MLSAN6C65VV7P2RKW"
+	"code2fa": "LALGFSEEKGSDZI7MLSAN6C65VV7P2RKW",
+	"email": "lu.dedeaux@outlook.com",
+	"emailPassword": "u4BZ1R&zSdJ",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
