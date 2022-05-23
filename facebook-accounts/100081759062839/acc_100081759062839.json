@@ -9,5 +9,9 @@
 	"birthdate": "1989 February 15",
 	"country": "",
 	"lastEventDate": "23.05.2022 22:31 01 - CRIAR CONTA",
-	"code2fa": "4NQ2TBJR7B62C3M5ZZW2G3MG77X2P7TA"
+	"code2fa": "4NQ2TBJR7B62C3M5ZZW2G3MG77X2P7TA",
+	"email": "paulina_schnur.79@outlook.com",
+	"emailPassword": "v9DE7PZGDR",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
