@@ -9,5 +9,9 @@
 	"birthdate": "1990 April 29",
 	"country": "",
 	"lastEventDate": "23.05.2022 04:15 01 - CRIAR CONTA",
-	"code2fa": "6P7BYACLKPZUYFUNASDI727YVBWIUDMR"
+	"code2fa": "6P7BYACLKPZUYFUNASDI727YVBWIUDMR",
+	"email": "ridgwa.sarina@outlook.com",
+	"emailPassword": "9ove6RseE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
