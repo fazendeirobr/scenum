@@ -9,5 +9,9 @@
 	"birthdate": "2002 April 14",
 	"country": "",
 	"lastEventDate": "23.05.2022 07:22 01 - CRIAR CONTA",
-	"code2fa": "AJTVICOUHVQJAMFIDBV5JB44PY4AXEYJ"
+	"code2fa": "AJTVICOUHVQJAMFIDBV5JB44PY4AXEYJ",
+	"email": "ferne_mercadante1984@outlook.com",
+	"emailPassword": "Ve3G0etable",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
