@@ -9,5 +9,9 @@
 	"birthdate": "1998 January 23",
 	"country": "",
 	"lastEventDate": "23.05.2022 02:08 01 - CRIAR CONTA",
-	"code2fa": "QYM4KKZAHRG6PV6X2YVIL2NCLIFZCP7Z"
+	"code2fa": "QYM4KKZAHRG6PV6X2YVIL2NCLIFZCP7Z",
+	"email": "bai_bento.74@outlook.com",
+	"emailPassword": "Ygs3pGSZ4Q",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
