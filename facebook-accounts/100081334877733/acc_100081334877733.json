@@ -9,5 +9,9 @@
 	"birthdate": "1996 April 9",
 	"country": "",
 	"lastEventDate": "23.05.2022 23:56 01 - CRIAR CONTA",
-	"code2fa": "GZGBAZCHUAFAJFQ75ABOE7MMK3TXKAD5"
+	"code2fa": "GZGBAZCHUAFAJFQ75ABOE7MMK3TXKAD5",
+	"email": "stills.soila@outlook.com",
+	"emailPassword": "D$46$8$5penA",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
