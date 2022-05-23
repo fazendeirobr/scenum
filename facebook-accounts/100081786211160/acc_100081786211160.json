@@ -9,5 +9,9 @@
 	"birthdate": "2000 April 15",
 	"country": "",
 	"lastEventDate": "23.05.2022 14:32 01 - CRIAR CONTA",
-	"code2fa": "EQ5NNJK4CXTWYAKEE7JOC4XUN3G43JGO"
+	"code2fa": "EQ5NNJK4CXTWYAKEE7JOC4XUN3G43JGO",
+	"email": "piker.gil@outlook.com",
+	"emailPassword": "94variEty",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
