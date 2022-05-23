@@ -9,5 +9,9 @@
 	"birthdate": "1993 March 18",
 	"country": "",
 	"lastEventDate": "23.05.2022 20:56 01 - CRIAR CONTA",
-	"code2fa": "QBTJ5C7PVCWGEVY2RS4GR4XM67P6TBN2"
+	"code2fa": "QBTJ5C7PVCWGEVY2RS4GR4XM67P6TBN2",
+	"email": "janettarenken@outlook.com",
+	"emailPassword": "RJpA8kK81d",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
