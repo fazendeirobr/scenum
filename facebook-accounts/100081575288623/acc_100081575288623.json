@@ -9,5 +9,9 @@
 	"birthdate": "1999 January 14",
 	"country": "",
 	"lastEventDate": "23.05.2022 09:04 01 - CRIAR CONTA",
-	"code2fa": "E5NMZFXKNVMSCISZGNFCFMPHZJMZNSJ5"
+	"code2fa": "E5NMZFXKNVMSCISZGNFCFMPHZJMZNSJ5",
+	"email": "chanel.filipi@outlook.com",
+	"emailPassword": "su9pP8ResS",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
