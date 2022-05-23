@@ -9,5 +9,9 @@
 	"birthdate": "2001 April 28",
 	"country": "",
 	"lastEventDate": "23.05.2022 08:18 01 - CRIAR CONTA",
-	"code2fa": "OVRZ6ZLER2WGPEJ3DQSWCYUOUTWMZSR7"
+	"code2fa": "OVRZ6ZLER2WGPEJ3DQSWCYUOUTWMZSR7",
+	"email": "carn.leonie80@outlook.com",
+	"emailPassword": "01nuMerouS",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
