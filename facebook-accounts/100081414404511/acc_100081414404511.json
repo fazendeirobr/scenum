@@ -9,5 +9,9 @@
 	"birthdate": "2002 January 6",
 	"country": "",
 	"lastEventDate": "23.05.2022 01:24 01 - CRIAR CONTA",
-	"code2fa": "HUSAZCIUIHM2SBSGNP7KGPTRT5GNPK7H"
+	"code2fa": "HUSAZCIUIHM2SBSGNP7KGPTRT5GNPK7H",
+	"email": "shonna_asper@outlook.com",
+	"emailPassword": "D6elib2erAte",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
