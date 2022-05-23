@@ -9,5 +9,9 @@
 	"birthdate": "1993 March 11",
 	"country": "",
 	"lastEventDate": "23.05.2022 22:14 01 - CRIAR CONTA",
-	"code2fa": "NXP3RX5GHINOYPD4GG3O64PI2GGCI2QZ"
+	"code2fa": "NXP3RX5GHINOYPD4GG3O64PI2GGCI2QZ",
+	"email": "la.hiscox835@outlook.com",
+	"emailPassword": "072SsMHv",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
