@@ -9,5 +9,9 @@
 	"birthdate": "1991 May 1",
 	"country": "",
 	"lastEventDate": "23.05.2022 21:06 01 - CRIAR CONTA",
-	"code2fa": "CUOFQ6V4MLSH7RAHRYB74ZVIZTNWBRRE"
+	"code2fa": "CUOFQ6V4MLSH7RAHRYB74ZVIZTNWBRRE",
+	"email": "nancigillie1000@outlook.com",
+	"emailPassword": "k4CE3Hw0JNO3",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
