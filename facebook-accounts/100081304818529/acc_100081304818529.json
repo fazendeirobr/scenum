@@ -9,5 +9,9 @@
 	"birthdate": "1992 April 25",
 	"country": "",
 	"lastEventDate": "23.05.2022 13:48 01 - CRIAR CONTA",
-	"code2fa": "QU2QYQXLXVFZP6QGJZB7XVVLINM6NYZV"
+	"code2fa": "QU2QYQXLXVFZP6QGJZB7XVVLINM6NYZV",
+	"email": "orilla.ricard@outlook.com",
+	"emailPassword": "p5r2EdIcT",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
