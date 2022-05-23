@@ -9,5 +9,9 @@
 	"birthdate": "2002 January 22",
 	"country": "",
 	"lastEventDate": "23.05.2022 06:48 01 - CRIAR CONTA",
-	"code2fa": "RMMQIAEE4GUNHH4GKAWEMINLEY3LHOFY"
+	"code2fa": "RMMQIAEE4GUNHH4GKAWEMINLEY3LHOFY",
+	"email": "janis.hughett97@outlook.com",
+	"emailPassword": "jN1i_QGV",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
