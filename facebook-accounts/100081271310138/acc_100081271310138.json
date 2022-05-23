@@ -9,5 +9,9 @@
 	"birthdate": "1989 April 5",
 	"country": "",
 	"lastEventDate": "23.05.2022 07:36 01 - CRIAR CONTA",
-	"code2fa": "SNOJI76ACGQ5MCMTLITG7XFMO3V3BZJG"
+	"code2fa": "SNOJI76ACGQ5MCMTLITG7XFMO3V3BZJG",
+	"email": "florinda.deshong@outlook.com",
+	"emailPassword": "guiD56Eline",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
