@@ -9,5 +9,9 @@
 	"birthdate": "1989 May 16",
 	"country": "",
 	"lastEventDate": "23.05.2022 07:00 01 - CRIAR CONTA",
-	"code2fa": "HJ65XJVN4KOCPFBWVWJ4SQJYWWOTFYEQ"
+	"code2fa": "HJ65XJVN4KOCPFBWVWJ4SQJYWWOTFYEQ",
+	"email": "styron_chantay@outlook.com",
+	"emailPassword": "OFi%5u8oy5Y8",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
