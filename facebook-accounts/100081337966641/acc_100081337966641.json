@@ -9,5 +9,9 @@
 	"birthdate": "1999 February 5",
 	"country": "",
 	"lastEventDate": "23.05.2022 05:50 01 - CRIAR CONTA",
-	"code2fa": "5JNYWVVRSOOBP44WOGFSZELDO3XTPOI2"
+	"code2fa": "5JNYWVVRSOOBP44WOGFSZELDO3XTPOI2",
+	"email": "to.carla_1969@outlook.com",
+	"emailPassword": "t94KPUIP",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
