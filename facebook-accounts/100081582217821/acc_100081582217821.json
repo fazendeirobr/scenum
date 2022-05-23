@@ -9,5 +9,9 @@
 	"birthdate": "2000 May 6",
 	"country": "",
 	"lastEventDate": "23.05.2022 17:12 01 - CRIAR CONTA",
-	"code2fa": "5GPQ3Z6OSQWN7JF2CY7UY32MDB5543RC"
+	"code2fa": "5GPQ3Z6OSQWN7JF2CY7UY32MDB5543RC",
+	"email": "maurin.tabatha@outlook.com",
+	"emailPassword": "dr5i4LlS",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
