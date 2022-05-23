@@ -9,5 +9,9 @@
 	"birthdate": "1998 May 4",
 	"country": "",
 	"lastEventDate": "23.05.2022 13:54 01 - CRIAR CONTA",
-	"code2fa": "EPV4FQE2K6UBA6SSDIRVCQ45CFAF76M5"
+	"code2fa": "EPV4FQE2K6UBA6SSDIRVCQ45CFAF76M5",
+	"email": "geralynlamberson@outlook.com",
+	"emailPassword": "%$V2LBi@V4l",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
