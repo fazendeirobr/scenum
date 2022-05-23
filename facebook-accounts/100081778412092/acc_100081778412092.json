@@ -9,5 +9,9 @@
 	"birthdate": "2001 February 10",
 	"country": "",
 	"lastEventDate": "23.05.2022 21:29 01 - CRIAR CONTA",
-	"code2fa": "2DRFY7OK5XVZOBGFU5AUXXXAIY6VGWFG"
+	"code2fa": "2DRFY7OK5XVZOBGFU5AUXXXAIY6VGWFG",
+	"email": "darleenrebelo92@outlook.com",
+	"emailPassword": "cr83eEPy",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
