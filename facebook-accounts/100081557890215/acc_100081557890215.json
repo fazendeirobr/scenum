@@ -9,5 +9,9 @@
 	"birthdate": "1995 May 2",
 	"country": "",
 	"lastEventDate": "23.05.2022 22:08 01 - CRIAR CONTA",
-	"code2fa": "FWYJUD2TSVU4SMTGGVKIJIBA7MQNFDW7"
+	"code2fa": "FWYJUD2TSVU4SMTGGVKIJIBA7MQNFDW7",
+	"email": "zulafrasure1966@outlook.com",
+	"emailPassword": "e1x1ternAl",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
