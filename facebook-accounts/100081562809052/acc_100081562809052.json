@@ -9,5 +9,9 @@
 	"birthdate": "1999 January 11",
 	"country": "",
 	"lastEventDate": "23.05.2022 14:32 01 - CRIAR CONTA",
-	"code2fa": "K2JX2DDJ7DWLEPA3GKRSMPLIBICUZ65V"
+	"code2fa": "K2JX2DDJ7DWLEPA3GKRSMPLIBICUZ65V",
+	"email": "critchlowtrina@outlook.com",
+	"emailPassword": "%Fcf1p9R4ba3",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
