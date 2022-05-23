@@ -9,5 +9,9 @@
 	"birthdate": "1994 March 11",
 	"country": "",
 	"lastEventDate": "23.05.2022 06:03 01 - CRIAR CONTA",
-	"code2fa": "DJ7P2L4RX7IJVBPA5TNPOWYEG5MEPSYY"
+	"code2fa": "DJ7P2L4RX7IJVBPA5TNPOWYEG5MEPSYY",
+	"email": "carmina.leiva@outlook.com",
+	"emailPassword": "5YA$48r7wY",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
