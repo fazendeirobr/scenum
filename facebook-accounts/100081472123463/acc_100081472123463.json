@@ -9,5 +9,9 @@
 	"birthdate": "2002 January 30",
 	"country": "",
 	"lastEventDate": "23.05.2022 14:17 01 - CRIAR CONTA",
-	"code2fa": "GHVNHLRITPB56GFMV4N5ISIKJDYVMKIM"
+	"code2fa": "GHVNHLRITPB56GFMV4N5ISIKJDYVMKIM",
+	"email": "toepke.lois@outlook.com",
+	"emailPassword": "dJT962ht8eSc",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
