@@ -9,5 +9,9 @@
 	"birthdate": "1996 January 24",
 	"country": "",
 	"lastEventDate": "23.05.2022 00:07 01 - CRIAR CONTA",
-	"code2fa": "Z2CDBAIMLX4F6CI5GQEJLTLNFPRAELJG"
+	"code2fa": "Z2CDBAIMLX4F6CI5GQEJLTLNFPRAELJG",
+	"email": "nat.hohlt@outlook.com",
+	"emailPassword": "Kc_10DY5",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
