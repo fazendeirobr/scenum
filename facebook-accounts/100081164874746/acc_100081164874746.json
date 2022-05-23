@@ -9,5 +9,9 @@
 	"birthdate": "1990 March 14",
 	"country": "",
 	"lastEventDate": "23.05.2022 02:46 01 - CRIAR CONTA",
-	"code2fa": "2QFQT6XGCL2JN6UFPJXVOJP4O5BARNNC"
+	"code2fa": "2QFQT6XGCL2JN6UFPJXVOJP4O5BARNNC",
+	"email": "hagaradrienne388@outlook.com",
+	"emailPassword": "c9ouN8ter",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
