@@ -9,5 +9,9 @@
 	"birthdate": "1988 April 6",
 	"country": "",
 	"lastEventDate": "23.05.2022 03:28 01 - CRIAR CONTA",
-	"code2fa": "NWU6BPSCL2XWXREAPHH46PI4Z7S4O6X7"
+	"code2fa": "NWU6BPSCL2XWXREAPHH46PI4Z7S4O6X7",
+	"email": "tajuana.polsky66@outlook.com",
+	"emailPassword": "3Sp5onge",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
