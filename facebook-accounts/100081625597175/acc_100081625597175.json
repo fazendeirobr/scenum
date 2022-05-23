@@ -8,5 +8,9 @@
 	"screenname": "Ramona Furio",
 	"birthdate": "1998 February 2",
 	"country": "",
-	"lastEventDate": "23.05.2022 16:42 01 - CRIAR CONTA"
+	"lastEventDate": "23.05.2022 16:42 01 - CRIAR CONTA",
+	"email": "werlingleoma@outlook.com",
+	"emailPassword": "8DJaqHsd",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
