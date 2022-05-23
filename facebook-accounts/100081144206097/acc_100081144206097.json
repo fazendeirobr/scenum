@@ -9,5 +9,9 @@
 	"birthdate": "1997 April 15",
 	"country": "",
 	"lastEventDate": "23.05.2022 09:28 01 - CRIAR CONTA",
-	"code2fa": "AHP6HZFQBZMCDVOJ6W7AUISY3ULZHTUI"
+	"code2fa": "AHP6HZFQBZMCDVOJ6W7AUISY3ULZHTUI",
+	"email": "mittie_filion68@outlook.com",
+	"emailPassword": "IEl1gZ8Ou18S",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
