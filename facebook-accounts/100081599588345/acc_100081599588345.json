@@ -9,5 +9,9 @@
 	"birthdate": "1990 May 9",
 	"country": "",
 	"lastEventDate": "23.05.2022 20:39 01 - CRIAR CONTA",
-	"code2fa": "JAWPCRKWBUVTXWREUB7TZPFOQ4TF6CXI"
+	"code2fa": "JAWPCRKWBUVTXWREUB7TZPFOQ4TF6CXI",
+	"email": "schachter_ari@outlook.com",
+	"emailPassword": "8P4oisON",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
