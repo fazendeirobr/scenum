@@ -9,5 +9,9 @@
 	"birthdate": "1988 April 23",
 	"country": "",
 	"lastEventDate": "23.05.2022 08:15 01 - CRIAR CONTA",
-	"code2fa": "QDCERQKDQDY6CFTNR7UEHQ7MRED7X75I"
+	"code2fa": "QDCERQKDQDY6CFTNR7UEHQ7MRED7X75I",
+	"email": "ewin_aly@outlook.com",
+	"emailPassword": "6lifELonG",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
