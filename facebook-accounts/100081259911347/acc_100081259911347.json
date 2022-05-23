@@ -9,5 +9,9 @@
 	"birthdate": "1990 March 12",
 	"country": "",
 	"lastEventDate": "23.05.2022 20:24 01 - CRIAR CONTA",
-	"code2fa": "B2XZBA6HTIVKWUDBZ3BKB7UA6B6R3762"
+	"code2fa": "B2XZBA6HTIVKWUDBZ3BKB7UA6B6R3762",
+	"email": "friesslexi@outlook.com",
+	"emailPassword": "p9roSec9Ute",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
