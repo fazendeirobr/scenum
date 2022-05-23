@@ -9,5 +9,9 @@
 	"birthdate": "1991 May 17",
 	"country": "",
 	"lastEventDate": "23.05.2022 21:39 01 - CRIAR CONTA",
-	"code2fa": "OHQYF5JFK5YXDRDXNVOWTN7OWWIARCC3"
+	"code2fa": "OHQYF5JFK5YXDRDXNVOWTN7OWWIARCC3",
+	"email": "hatheway.melynda@outlook.com",
+	"emailPassword": "YeCig1kT4&G2",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
