@@ -9,5 +9,9 @@
 	"birthdate": "1995 January 9",
 	"country": "",
 	"lastEventDate": "23.05.2022 15:48 01 - CRIAR CONTA",
-	"code2fa": "IVENSUWIE462N2JGW2ZLJEDM34XTZVNX"
+	"code2fa": "IVENSUWIE462N2JGW2ZLJEDM34XTZVNX",
+	"email": "guilianomeaghan@outlook.com",
+	"emailPassword": "me65nTION",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
