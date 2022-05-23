@@ -9,5 +9,9 @@
 	"birthdate": "1994 January 25",
 	"country": "",
 	"lastEventDate": "23.05.2022 09:28 01 - CRIAR CONTA",
-	"code2fa": "UKVIS7CEIXWBS25MOHNHLDR4MGBUTEG4"
+	"code2fa": "UKVIS7CEIXWBS25MOHNHLDR4MGBUTEG4",
+	"email": "cavness.lakenya@outlook.com",
+	"emailPassword": "harD8w8arE",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
