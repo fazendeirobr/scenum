@@ -9,5 +9,9 @@
 	"birthdate": "1992 January 23",
 	"country": "",
 	"lastEventDate": "23.05.2022 03:38 01 - CRIAR CONTA",
-	"code2fa": "657LWLNAWRACK4ISA7OX77LK2Z4MW66O"
+	"code2fa": "657LWLNAWRACK4ISA7OX77LK2Z4MW66O",
+	"email": "bever_angelena@outlook.com",
+	"emailPassword": "eC1k&I#2d8j",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
