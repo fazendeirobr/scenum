@@ -9,5 +9,9 @@
 	"birthdate": "1989 January 5",
 	"country": "",
 	"lastEventDate": "23.05.2022 04:43 01 - CRIAR CONTA",
-	"code2fa": "3T66E6BT5AAMZXRCIX32MFDC77ZUHIUS"
+	"code2fa": "3T66E6BT5AAMZXRCIX32MFDC77ZUHIUS",
+	"email": "than.leighann.93@outlook.com",
+	"emailPassword": "a7Ggre3gate",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
