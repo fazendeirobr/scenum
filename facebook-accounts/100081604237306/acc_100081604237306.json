@@ -9,5 +9,9 @@
 	"birthdate": "1987 February 11",
 	"country": "",
 	"lastEventDate": "23.05.2022 07:56 01 - CRIAR CONTA",
-	"code2fa": "BA3TJGBMQM3PZBDIK4KHQSSGFNKWO6JR"
+	"code2fa": "BA3TJGBMQM3PZBDIK4KHQSSGFNKWO6JR",
+	"email": "sammyodonn@outlook.com",
+	"emailPassword": "CH75Vje2",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
