@@ -9,5 +9,9 @@
 	"birthdate": "1995 May 5",
 	"country": "",
 	"lastEventDate": "23.05.2022 08:47 01 - CRIAR CONTA",
-	"code2fa": "HLV6MFCZ7RBF7RNEBZUT3JMQUJM5KHRD"
+	"code2fa": "HLV6MFCZ7RBF7RNEBZUT3JMQUJM5KHRD",
+	"email": "vanekeva77@outlook.com",
+	"emailPassword": "P9E97i@LG",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
