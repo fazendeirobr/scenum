@@ -9,5 +9,9 @@
 	"birthdate": "1987 April 5",
 	"country": "",
 	"lastEventDate": "23.05.2022 22:00 01 - CRIAR CONTA",
-	"code2fa": "YN3RUG4L32YL76FFBPFS33VTFN3ESX3Y"
+	"code2fa": "YN3RUG4L32YL76FFBPFS33VTFN3ESX3Y",
+	"email": "xandramckeighan1997@outlook.com",
+	"emailPassword": "02virtuAl",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
