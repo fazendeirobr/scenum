@@ -9,5 +9,9 @@
 	"birthdate": "1996 March 1",
 	"country": "",
 	"lastEventDate": "23.05.2022 08:40 01 - CRIAR CONTA",
-	"code2fa": "EAH2OH2ON6RQJZVBTVEYWQTRDLLX6T2P"
+	"code2fa": "EAH2OH2ON6RQJZVBTVEYWQTRDLLX6T2P",
+	"email": "misti.seybold.87@outlook.com",
+	"emailPassword": "7sUb1trACt",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
