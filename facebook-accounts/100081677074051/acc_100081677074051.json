@@ -9,5 +9,9 @@
 	"birthdate": "1999 January 15",
 	"country": "",
 	"lastEventDate": "23.05.2022 01:01 01 - CRIAR CONTA",
-	"code2fa": "XTSESPNPLA2447CRNXMSNIK4JLJPHCKG"
+	"code2fa": "XTSESPNPLA2447CRNXMSNIK4JLJPHCKG",
+	"email": "tritsch_racquel@outlook.com",
+	"emailPassword": "9wRe1nch",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
