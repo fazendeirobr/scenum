@@ -9,5 +9,9 @@
 	"birthdate": "1988 February 26",
 	"country": "",
 	"lastEventDate": "23.05.2022 14:18 01 - CRIAR CONTA",
-	"code2fa": "CFX7TDZQUCUEYF5ITKPP7GCF4I42RBPI"
+	"code2fa": "CFX7TDZQUCUEYF5ITKPP7GCF4I42RBPI",
+	"email": "keisha.vermeu@outlook.com",
+	"emailPassword": "in6tRO3duCe",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
