@@ -9,5 +9,9 @@
 	"birthdate": "1992 April 13",
 	"country": "",
 	"lastEventDate": "23.05.2022 01:02 01 - CRIAR CONTA",
-	"code2fa": "SWK42MYMVFSDFL6DCFAQ2DFJSZITSSD3"
+	"code2fa": "SWK42MYMVFSDFL6DCFAQ2DFJSZITSSD3",
+	"email": "melony_riggenbach_1982@outlook.com",
+	"emailPassword": "intE6rp8reTER",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
