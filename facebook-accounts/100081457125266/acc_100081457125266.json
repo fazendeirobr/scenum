@@ -9,5 +9,9 @@
 	"birthdate": "1999 April 16",
 	"country": "",
 	"lastEventDate": "24.05.2022 00:09 01 - CRIAR CONTA",
-	"code2fa": "NXDCKLBHUDPWYWRKSUIMEJNNQ7NS6QV7"
+	"code2fa": "NXDCKLBHUDPWYWRKSUIMEJNNQ7NS6QV7",
+	"email": "ayannapickro@outlook.com",
+	"emailPassword": "vO7c4Abulary",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
