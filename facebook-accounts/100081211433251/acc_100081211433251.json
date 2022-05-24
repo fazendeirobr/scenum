@@ -9,5 +9,9 @@
 	"birthdate": "1998 February 8",
 	"country": "",
 	"lastEventDate": "24.05.2022 00:37 01 - CRIAR CONTA",
-	"code2fa": "QZZOHTZU5CNGPVFOUUYBLSQLFP2OWOTP"
+	"code2fa": "QZZOHTZU5CNGPVFOUUYBLSQLFP2OWOTP",
+	"email": "nikiseats.92@outlook.com",
+	"emailPassword": "p83uNisH",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
